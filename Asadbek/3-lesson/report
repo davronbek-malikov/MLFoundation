@@ -1,0 +1,53 @@
+Machine learning bolimlaridan Supervise ML ni toliqroq organishni boshladik. 
+
+AI => 
+  - Machine Learnig (ML) => 
+      - Supervised Machine Learning (SML) =>
+          - Classification =>
+              - Binary (targetimiz 2 turli qiymatga ega bolishi kera)
+              - multi-class (targetimiz 3 va undan ortiq qiymatga ega bolishi kerak)
+          - Regression (target qiymatimiz cheksiz bolishi kerak)
+      - Unsupervised Machine Learning (USML) 
+      - Reinforcement Machine Learning (RML)
+
+Ml model quyidagi ketma ketliklar orqali yaratiladi:
+  - Data collection (Biz hozir tayyor datalarda foydalanamiz uning uchun KAGGLE yoki GITHUB dan yuklab olamiz) 
+  - Data preprocessing (cleaning encoding, scaling)
+  - Algorithm selection
+  - Model training
+  - Evaluation
+  - Testing
+  - Deployment
+  - Monitoring
+
+Model yaratish ketma ketliginig 1 - sini amalga oshirdik yani Kaggle va Github dan bizga kerakli dataset ni yuklab oldik va 2 - qismini amalga oshirish uchun ML va pythonda
+bazi kodlarni organdik. Ular quyidagilar.
+
+kutubxonalar yuklash uchun kodlar:
+  - pip install "library name"
+  - %pip install "library name"
+  - !pip install "library name"
+
+datasetimizni oqib olish ochun hamda datasetimizni "df" ozgaruvchisiga tenglashtiriladi:
+  - df=pd.read_csv("csv filening relative pathi") => "pd" bu yerda pandas kutubxonasidan olingan
+
+df.head() - boshidan 5 ta qatorni chiqarib beradi
+df.tail() - oxiridan 5 ta qatorni chiqarib beradi
+df.head(nechta qator kerak bolsa shu son kiritiladi) df.head(24), df.tail(12)
+df.nunique() - har bir ustundagi classlar soni
+df['name'] - name ustunni chiqarib beradi
+df['id'].nunique() id ustundagi classlar soni
+df[['id','name','airport_type']] - bittadan ortiq ustunlarni chiqarib beradi
+df.info() - data haqida umumiy malumot
+df.isnull().sum() - har bir ustun uchun tushurib qoldirilgan qiymatlar sonini chiqarib beradi
+df.isnull().any() - har bir ustun uchun tushurib qoldirilgan qiymatlar bormi yoki yoq (True yoki False qaytaradi)
+if else condition bu holatni tekshiradi masalan: 
+  25 talik testdan oquvchilarning natijalari: natija 23 dan katta bolsa 5baxo, 18 hamda 23 oraligida bolsa 4 baxo 18 dan kam bolsa 3 baxo.   
+
+
+
+
+
+
+
+                                                            
