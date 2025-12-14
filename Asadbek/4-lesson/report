@@ -12,9 +12,39 @@ Datasetimizda tushurib qoldirilgan qiymatlarni toldirish.
 Bularning 5 xil usuli mavjud.
 
 - MEAN => orta arifmetik qiymat bilan toldiriladi (bu usul faqat raqamli ustunlar uchun ishlaydi)
+
+  - df["ustun nomi"].fillna(df["ustun nomi"].mean(), inplace=True)
+
 - MODE => eng kop takrorlangan qiymatlar bilan toldiriladi
+
+  - df["ustun nomie"].fillna(df["ustun nomi"].mode()[0], inplace=True)
+
 - MEDIAN => ortasidagi qiymat bilan toldiriladi.
+
+  - df["ustun nomi"].fillna(df["ustun nomi"].median(), inplace=True)
+
+df.describe() => bu kod orqali number qiymatga ega ustunlarning mean, min, max va hokazo qiymatlarini chiqarib beradi.
+
 - FIXED => biz xoxlagan qiymat bilan toldiriladi (yani biz bu qiymatni oldindan aniq bilar edik)
+
+  - df["ustun nomi"].fillna("fixed qiymat", inplace=True)
+  
 - Tashlab yuborish bu bizda oz navbatida 2 ga bolinadi => ustun boyicha hamda qator boyicha tashlab yuborish
   - Ustun boyicha tashlab yuborishda biz quyidagi holatga etibor berishimiz kerak. 
   Ustunning 50% dan kop qiymati tushib qolgan bolsa biz tashlab yuborishimiz kerak chunki 50% dan kopini ozimiz taxminiy toldirsa bizning modelimiz ishlash aniqligi pasayadi.
+  
+  - df.drop("ustun nomi", axis=1, inplace=True) => ustunni tashlab yuborish
+    axis=1 - ustun bo'yicha tashlab yuborilayotganini anglatuvchi kod
+    inplace=True - ustunni tashlab yuborganimizdan so'ng datasetimizni update qilish.
+  - df.dropna(inplace=True) Qatorda ma'lumotlar tushib qolgan bolsa o'sha qatorni tashlab yuboradi.
+
+
+Library => Kodlar jamlanmasi. Qayta qayta kod yozmasligimiz uchun ishlatiladigan package.
+
+- Numpy, 
+- Pandas, 
+- Matplotib, 
+- Seaborn, 
+- Scikit-learn => Eng katta kutubxonalardan biri.
+
+
