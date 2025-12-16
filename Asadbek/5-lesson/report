@@ -1,1 +1,69 @@
+Data preprocessing => Missing values
+                      Encoding
+                      Scaling
+
+Encoding => Categorical qiymatlarni numerical ga o'tqazish. Ya'ni object data type dan integer yoki float ga o'tish.
+
+5ta usul orqali encoding qilamiz. 
+- one-hot encoding
+- label encoding
+- frequency encoding
+- target encoding
+- ordinal encoding
+
+one-hot encoding => bizning datasetimizda airport_type ustuni bor unda quyidagi qiymatlar mavjud.
+
+    airport_type => small_airport   bizda umumiy 3 xil airport type mavjud. classlarga ajratadigan bo'lsak => small, medium, large.
+                    large_airport
+                    medium_airport
+                    large_airport
+                    medium_airport
+                    ...
+
+
+Ushbu classlar sonicha ustun yaratamiz. airport_type ustunimizning birinchi qatoriga boradi, small_aiport turibdi va yangi hosil qilayotgan ustunlarimizning small_airport ustuniga
+1 yozadi va qolgan medium, larget airportga 0 yoziladi. va keyingi qatorga tushadi, unda large_airport turibdi bu holatda large_airport ustunimizga 1 yoziladi qolganlariga esa 0.
+Shu tariqa davom etadi.
+
+small_airport      medium_airport     large_airport
+    1                    0                 0
+    0                    0                 1
+    0                    1                 0
+    0                    0                 1
+    0                    1                 0 
+    ...
+
+Datasetimizning 1ta ustunini one-hot encoding qilsak, o'sha ustunimizda classlar sonicha ustun yaratilar ekan. Bu usulni juda ham kam sonli classga ega ustunlar uchun qo'llaymiz. 
+Hozircha max: 5
+
+
+Code qismi => 
+dummies = pd.get_dummies(df["airport_type"], prefix="col", dtype=int) - bu kod orqali 3ta ustun quyidagi nomlar bilan yaratiladi => 
+"col_small_airport", "col_medium_airport", "col_large_airport" va bularga mos ravishda 0 va 1 qiymatlar yoziladi. biz dummies o'zgaruvchiga ushbu 3 ta ustundan iborat datasetni tenglashtirdik. 
+
+df=pd.concat([df.drop(columns=["airport_type"]), dummies], axis=1) - bu kod orqali bizning original datasetimizda airport_type ustunini tashlab yuboramiz hamda biz oldin yaratga "dummies"
+datasetimizni qo'shib qo'yamiz. 
+
+
+
+Label encoding => one-hot encoding kabi qo'shimcha ustunlar yaratmaydi. o'sha ustun saqlanib qoladi faqat qiymatlari alifbo tartibida numerical qiymatlarga o'zgartiriladi.
+
+Code => 
+from sklearn.preprocessing import LabelEncoder - LabelEncoder funksiyasini sklearn.preprocessing shundan import qilib olamiz.
+encoder = LabelEncoder() - encoder o'zgaruvchisiga LabelEncoder funksiyamizni chaqiramiz.
+df["column_name"]=encoder.fit_transform(df["column_name"]) - biz tanlagan ustunni labelencoding orqali numerical qiymatga o'zgartiriladi.
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
 
