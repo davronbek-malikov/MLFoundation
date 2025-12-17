@@ -1,1 +1,58 @@
 
+
+                                                              LESSON N_1
+
+
+🧩🧩🧩################################################🧩🧩🧩
+
+
+📌 1-savol: Machine learning xayotimizda qayerlarda uchrashi mumkin (PPT da aytilgan va aytilmagan
+    misollarni yozing)?
+    🎲 AI ==> Science/Medicine/Face Recognition/Automation/CRM systems/LMS management systems/Smart Controlling Systems/....
+----------------------------------------------------------------------
+
+📌 2-savol: O’yin o’ynay oladigan dastur yaratgan olim kim?
+    🎲 1952-yil  Artur Samuel IBMda - Shashka
+----------------------------------------------------------------------
+
+📌 3-savol: Machine learning qanday fan? Qisqa so’zlar bilan tushuntiring.
+    🎲 Data yordamida machine (baby) train qildrsh va uni ishlatish
+----------------------------------------------------------------------
+
+📌 4-savol: Jadvaldagi tadiqiqotlardan qaysi biri siz uchun eng qiziq bo’ldi. Javobingizni qisqacha
+    so’zlar bilan izohlang.
+    🎲 Frenk Rozenblatt--neyron tarmoq dasturi
+
+
+
+🧩🧩🧩################################################🧩🧩🧩
+
+
+📌 Nima uchun Machine learningni o’rganishimiz uchun dastlab Human learningni bilishimiz kerak?
+    🎲 Human learning => Machine learningda muhim hisoblanadi. Yani Machine train qlinayotganda Human learning asos qilib o'rgatilinadi
+----------------------------------------------------------------------
+
+📌 O’rganish turlaridan qaysi biri eng muhim va nima uchun?
+    🎲 Uchchala o'rganish turlari ham muhim hisoblanadi. Sababi machine train qlinayotganda barcha method ishlatilinadi
+
+
+
+🧩🧩🧩################################################🧩🧩🧩
+
+
+📌 Mlni deganda shu kungacha nimani tushunar edingiz?
+    🎲 AI oriented fields
+----------------------------------------------------------------------
+
+📌 Ml deganda endi nimani tushunasiz?
+    🎲 AI oriented fields/Data analytics/Big data/AI systems/AI Applications
+----------------------------------------------------------------------
+
+📌 Jadvaldagi bosqichlardan sizningcha eng muhimi qaysi?
+    🎲 Har biri muhim. Barchasi birlashganda yaxshi Model yaratsa bo'ladi
+----------------------------------------------------------------------
+
+📌 O’rganilgan tajriba keyingi muammoga tadbiq qilingandagi asosiy xususiyat nima bo’lishi kerak?
+    🎲 Ma'lumotlarni tahlil qilish va o'zgartrsh yani modification and optimization
+
+
