@@ -1,1 +1,42 @@
+Scaling => Juda katta va juda kichik qiymatlarni balanslashtirish. 
+datasetimizga scaling qollash uchun => 
+1 => numric qiymat bo'lishi kerak
+2 => agar qiymatlar 0 va 1 oralig'ida bo'lsa scaling qilishimiz shart emas.
+
+Scaling 3 ta usuli bor => Standart, MinMax va Robust
+
+MinMax => 0 va 1 oraliqqa olib kelib beradi. qolgan ikkalasdida manfiy tomonga ham otib ketib qoladi.
+
+
+Coding:
+
+from sklearn.preprocessing import StandardScaler, MinMaxScaler, RobustScaler => uchala scaling funksiyasini bir qatorlik kod orqali import qilish
+
+numCol=df.select_dtypes(include=['int64','float64']).columns.drop('target col name') => numerical ustunlarni aniqlaydi va target  ularni ichidan target qiymatni tashlab yuboradi. 
+Target qiymat scaling qilinmaydi.
+
+scaler=StandartScaler()
+df['colName']=scaler.fit_transform(df[['colName']])  => Standart scaling. Bunda qiymatlar minus ham chiqishi mumkin.
+
+scaler=MinMaxScaler()
+df['colName']=scaler.fit_transform(df[['colName']]) => MinMax scaling. Bunda qiymatlar 0 va 1 oraligida boladi.
+
+scaler=RobustScaler()
+df['colName']=scaler.fit_transform(df[['colName']]) => Robust scaling. Bunda qiymatlar minus ham chiqishi mumkin.
+
+for loop => 
+1.
+scaler=MinMaxScaler()
+for col in df.columns:
+    if df[col].dtype!='object':
+        df[col]=scaler.fit_transform(df[[col]])
+
+2.
+num_col=df.select_dtypes(include=['int64','float64']).columns.drop('target colName')
+for col in num_col:
+    df[col]=scaler.fit_transform(df[[col]])
+
+
+shular bilan Data preprocessing bolimi tugadi. Bundan keyin Model selection bolimiga otamiz. Ya'ni Algorithm selection.
+    
 
