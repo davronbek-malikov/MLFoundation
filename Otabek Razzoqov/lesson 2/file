@@ -1,1 +1,23 @@
-file
+a = 6
+b = 4 
+c = 2 
+
+print(a+b+c)
+print(a-b-c)
+print(a*b*c)
+print(a/b/c)
+print(a//b//c)
+print(a%b%c)
+print(a**b**c)
+
+
+
+### results are as below
+
+12
+0
+48
+0.75
+0
+0
+2821109907456
