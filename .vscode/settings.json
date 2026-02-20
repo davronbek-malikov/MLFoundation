@@ -1,0 +1,5 @@
+{
+    "path-autocomplete.enableFolderTrailingSlash": false,
+    "path-autocomplete.disableUpOneFolder": false,
+    "cursor.terminal.enableAiChecks": false
+}
