@@ -1,0 +1,53 @@
+
+Raw data => data preprocessing => Algorithm selection (O'qituvchining dars otish metodi)
+
+ML model structure
+
+1. Data collection (raw data)
+2. Data preprocessing (handling missing values, encoding categorical data, scaling/normalization)
+3. Model (ALgorithm) selection
+4. Model training (fitting the model)
+5. Prediction (model output qaytaradi yangi datalarni kirgizganimizda )
+6. Evaluation (modelimiz qay darajada yaxshi ishladi yoki yoq. accuracy score past chiqsa Model improvement bosqichini ham amalga oshirish kerak)
+7. Testing (Bevosita natija olish)
+8. Deployment
+
+Linear regression => Linear family, Baseline model, Regression (uyni narxini predict qilish), Linear equation (chiziqli tenglama)
+
+Linear regression maqsadi => input va output qiymatlar uchun mos chiziq topib berish
+
+y=B0+B1x+e => linear equation 
+x-input
+y-output
+B (Betta)-parametr
+e (Epsilyon)-error (Hech qachon nol bolmaydi) e!=0
+
+Linear regression 2ga bolinadi => Simple va Multiple (kop holatlarda ishlatiladi) LR. Ikkisining farqi multiple LR da input qiymatlar juda kop boladi.
+
+Kuchli tomonlari:
+1. Tez va oson 
+2. Kichiikroq datalar bilan ishlash qulay
+3. Baseline model
+4. Kam chiqim.
+
+Kuchsiz tomonlari:
+1. Complex (non-liner) holatlarni organa olmaydi
+2. Stabil emas. qiymatlar deyarli bir xil oraliqda bolsa va agar bu oraliqdan tashqarida boshqa qiymatlar qoshilib qolsa model natijasi pasayishiga olib keladi.
+3. Katta datasetlar uchun emas
+
+Evaluation => quyidagilarni baxolaydi
+1. Prediction qanchalik yaxshi?
+2. Model ishonarlimi?
+3. Generalization? Overfitting?
+
+Evaluation => classification => Accuracy score and Classification report
+Evaluation => regression => 
+1. Mean Absolute Error (MAE)
+2. Mean Squared Error (MSE)
+3. Root Mean Squared Error (RMSE)
+4. R(2) Score (Coefficient of determination)
+
+MAE, MSE and RMSE => Errors ni o'lchaydi yani => original qiymat bilan predict qilingan qiymat orasidagi farqni olchaydi. 
+Error qiymati qanchalik kichik bolsa Model yaxshi boladi.                                            
+                                                      
+

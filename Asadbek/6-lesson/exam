@@ -1,0 +1,48 @@
+1. Supervised ML nima va qanday turlarga bo'linadi?
+
+AI/ML ni 3 ta turga bo'linadi ular quyidagilar Supervised , Unsupervised hamda Reinforcement. 
+Supervised MLda input (features) va output(target) qiymatlar bo'lishi kerak. Supervised ML 2 turga bo'linadi classification va regression. Classification o'z navbatida 2 ga
+binary va multi-class ga bolinadi. binary => target qiymatda classlar soni 2 ta bo'lishi kerak. multi-class da esa 3 va unda ortiq. Regression bo'limida esa target qiymatlar soni cheksiz bo'ladi.
+
+2. Data qanday bo'lishi kerak?
+
+Data 2 turga bolinadi structured va unstructured. bStructured => table ko'rinishida bo'ladi. ustunlar hamda qatorlardan tashkil topadi. Unstructured esa rasm, video va shunga o'xshashlarni
+misol keltirsak bo'ladi. Data o'z navbatida ishonchli, soni ko'p bo'lishi, sifatli bo'lishi va mavzuga oid bolishi kerak.
+
+3. Data preprocessing nima?
+
+ML model yaratish ketma ketligini asosiy bosqichlaridan biri. Bu bosqichda 3 ta asosiy ish amalga oshiriladi. Missing values, encoding hamda scaling. ushbu uchala 
+bosqichlarni amalga oshirib Data mizni kompyiuter tushunadigan formaga keltiramiz.
+
+4. Mean va mode ni farqi nimada?
+
+Data preprocessingning missing values bosqichida bizning datasetimizda tushurib qoldirilgan malumotlarni 5 xil usulda to'ldiramiz. Mean, mode, median, fixed va drop. Mean usul bilan 
+faqat numerical qiymatga ega ustunni o'sha qiymatlarning o'rta arifmetigi bilan toldiriladi. Mode esa eng ko'p takrorlanga qiymatlar bilan toldiriladi. Mode numerical va categorical 
+qiymatlar uchun ishlaydi
+
+5. Regression va classification nima va ularga misol ayting.
+
+Regression => target qiymat classlar soni cheksiz boladi. 
+masalan uy narxini predict qiladigan ML modelimizda target qiymat uyning narxi. target qiymatimiz Narx bo'lgandan song uning classlar soni cheksiz bo'ladi.
+
+classification => target qiymat classlar soni chekli. 
+Ob havoni predict qiladigan ML modelimiz mavjud. Bundagi targetimiz bugun yomgir yogadi yoki yogmaydi shuni qaytarsa. targetimizning classlar soni 2 ta boladi va classification => binary
+
+6. Tushurib qoldirilgan qiymatlarni toldirish usullari qanday va ular qanday ishlaydi. 
+
+5 ta usuli mavjud.
+
+Mean => o'rta arifnetik (faqat numerical)
+Mode => eng kop takrorlanadigan (numerical va categorical)
+Median => o'rtadagi qiymat (numerical)
+Fixed => o'zimiz aniq beradigan qiymat
+Drop => tashlab yuborish
+
+7. ML va AI da eng muhim element
+
+Albatt bu data hisoblanadi. chunki AI/ML data orqali o'rgatiladi va ishlaydi. Ma'lumot sifati yomon bolsa model ham yaxshi ishlamaydi. 
+
+8. Median qanday ishlaydi.
+
+Median numerical uchun ishlaydi. Sonlar saralanadi. kichikdan boshlab katta songacha va o'rtasidagi son olinadi. Agar listimiz toq sonli bolsa ortasida olinaveradi aga juft bolsa 
+ortasidagi 2 ta son olinadi va ularning orta arifetigi hisoblanadi.
