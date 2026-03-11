@@ -1,0 +1,7 @@
+Date,Event,Phase,Brent_Price,WTI_Price,Impact
+2026-02-16,Pre-conflict baseline,Pre-Conflict,74.2,70.1,Minimal
+2026-02-23,Initial escalation,Escalation,78.5,74.0,Moderate
+2026-02-25,Military engagement,Escalation,85.5,81.0,Significant
+2026-02-28,Strait threat,Escalation,92.0,87.5,High
+2026-03-01,Peak uncertainty,Peak,94.5,90.0,Peak
+2026-03-03,Market stabilization,Stabilization,95.0,90.5,Declining

@@ -1,0 +1,15 @@
+Country,Region,Oil_Import_Pct,GDP_Impact_Pct,Inflation_Risk,Stock_Market_Change,Currency_Pressure,Policy_Response,Vulnerability,Population_M
+Pakistan,South Asia,85,2.5,High,-5.2,High,Subsidies,High,230
+India,South Asia,80,1.8,Medium,-3.1,Medium,Tax Cut,High,1400
+Bangladesh,South Asia,75,2.0,High,-4.5,High,Price Cap,High,170
+Afghanistan,South Asia,70,3.0,Very High,-8.0,Very High,None,Very High,40
+Nepal,South Asia,78,2.2,High,-4.0,High,Subsidies,High,30
+Sri Lanka,South Asia,82,2.8,High,-6.0,High,Emergency Measures,High,22
+USA,North America,25,0.5,Low,-1.5,Low,Strategic Reserve,Low,330
+UK,Europe,45,1.2,Medium,-2.5,Medium,Tax Freeze,Medium,67
+Germany,Europe,50,1.5,Medium,-3.0,Medium,Subsidy Program,Medium,83
+France,Europe,48,1.4,Medium,-2.8,Medium,Price Cap,Medium,67
+Japan,East Asia,88,2.0,Medium,-4.5,High,Subsidies,High,125
+China,East Asia,72,1.6,Medium,-2.0,Medium,Domestic Supply,Medium,1400
+Saudi Arabia,Middle East,5,-0.5,Low,2.0,None,Increase Production,Low,35
+Iran,Middle East,10,-1.0,Medium,5.0,Low,Export Focus,Low,85
