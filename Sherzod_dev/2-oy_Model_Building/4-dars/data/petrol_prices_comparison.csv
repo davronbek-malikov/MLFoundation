@@ -1,0 +1,15 @@
+Country,ISO,Region,Currency,Before_War_Price,Mar7_Price,Unit,Amount_Change,Pct_Increase,Trend,Before_War_USD,Mar7_USD,Oil_Import_Dep
+Pakistan,PAK,South Asia,PKR,266.17,321.17,PKR/L,55.0,20.66,Increase,0.95,1.15,High
+India,IND,South Asia,INR,94.77,94.77,INR/L,0.0,0.00,Stable,1.14,1.14,High
+Bangladesh,BGD,South Asia,BDT,125.00,130.00,BDT/L,5.0,4.00,Increase,1.02,1.06,High
+Afghanistan,AFG,South Asia,AFN,57.00,57.00,AFN/L,0.0,0.00,Stable,0.82,0.82,High
+Nepal,NPL,South Asia,NPR,186.00,190.00,NPR/L,4.0,2.15,Increase,1.40,1.43,High
+Sri Lanka,LKA,South Asia,LKR,350.00,380.00,LKR/L,30.0,8.57,Increase,1.10,1.19,High
+USA,USA,North America,USD,3.15,3.45,USD/gal,0.30,9.52,Increase,3.15,3.45,Low
+UK,GBR,Europe,GBP,1.45,1.65,GBP/L,0.20,13.79,Increase,1.82,2.07,Low
+Germany,DEU,Europe,EUR,1.75,1.95,EUR/L,0.20,11.43,Increase,1.89,2.11,Low
+France,FRA,Europe,EUR,1.82,2.02,EUR/L,0.20,10.99,Increase,1.97,2.19,Low
+Japan,JPN,East Asia,JPY,165.00,178.00,JPY/L,13.0,7.88,Increase,1.10,1.19,High
+China,CHN,East Asia,CNY,7.85,8.25,CNY/L,0.40,5.10,Increase,1.10,1.16,High
+Saudi Arabia,SAU,Middle East,SAR,2.18,2.18,SAR/L,0.0,0.00,Stable,0.58,0.58,Low
+Iran,IRN,Middle East,IRR,45000,52000,IRR/L,7000,15.56,Increase,0.12,0.14,Low

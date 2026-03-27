@@ -1,0 +1,114 @@
+AI => Inson aqliga taqlid qiladigan dastur.
+
+AI => 
+  - Machine Learnig (ML) => 
+      - Supervised Machine Learning (SML) =>
+          - Classification =>
+              - Binary (targetimiz 2 turli qiymatga ega bolishi kera)
+              - multi-class (targetimiz 3 va undan ortiq qiymatga ega bolishi kerak)
+          - Regression (target qiymatimiz cheksiz bolishi kerak)
+      - Unsupervised Machine Learning (USML)
+      - Reinforcement Machine Learning (RML)
+
+
+Ml model structure:
+1. Data collection (raw data)
+2. Data preprocessing (handling missing values, encoding categorical data, scaling/normalization)
+3. Model (ALgorithm) selection
+4. Model training (fitting the model)
+5. Prediction (model output qaytaradi yangi datalarni kirgizganimizda )
+6. Evaluation (modelimiz qay darajada yaxshi ishladi yoki yoq. accuracy score past chiqsa Model improvement bosqichini ham amalga oshirish kerak)
+7. Testing (Bevosita natija olish)
+8. Deployment
+
+
+
+Data preprocessing:
+
+1. Handling missing values => MEAN(numerical), MODE(object and numerical), MEDIAN(numerical), DROP(row and col), FIXED
+
+2. Encoding => Categorical qiymatlarni numerical ga o'tqazish. Ya'ni object data type dan integer yoki float ga o'tish.
+- one-hot encoding (classlar sonicha ustun yaratadi)
+- label encoding (qiymatlari alifbo tartibida numerical qiymatlarga o'zgartiriladi.)
+- frequency encoding (Takrorlanishlar sonini umumiy elementlar soniga nisbati. )
+- target encoding (mean) (mos target qiymatning o'rta arifmetigi. )
+- ordinal encoding (Ketma ketlik ga qarab sonlar bilan almashtiriladi.)
+
+3. Scaling => Juda katta va juda kichik qiymatlarni balanslashtirish.
+=> Standart, MinMax va Robust
+MinMax => 0 va 1 oraliqqa olib kelib beradi. qolgan ikkalasdida manfiy tomonga ham otib ketib qoladi.
+
+
+Algorithm Selection:
+
+ML ALgorithm larni 2ga bolamiz => linear and non-linear
+
+Liner =>
+1. Liner => Liner regression (Regression)
+         Logistic regression (Classification)
+
+Non-liner =>
+1. Tree-based => Decision tree
+              Random forest
+
+2. Distance-based => KNN
+                  SVM
+
+3. Ensemble => Random forest
+            Gradient boosting
+
+
+Logistic regression: Classification tasklar uchun ishlaydi.
+Logistic Regression bosqichlari=> 
+  Data preprocessing (cleaning, encoding, scaling)
+  x, y (inputs(features) va outpu(target) ni aniqlash)
+  splitting (train va test)
+  Trainig(fitting)
+  Predicting
+  Evaluating
+
+Linear regression => input va output qiymatlar uchun mos chiziq topib berish
+y=B0+B1x+e => linear equation 
+x-input
+y-output
+B (Betta)-parametr
+e (Epsilyon)-error (Hech qachon nol bolmaydi) e!=0
+
+Linear regression 2 ga bolinadi => Simple va Multiple.
+
+
+
+Library => Kodlar jamlanmasi. Qayta qayta kod yozmasligimiz uchun ishlatiladigan package.
+
+- Numpy, 
+- Pandas, 
+- Matplotib, 
+- Seaborn, 
+- Scikit-learn => Eng katta kutubxonalardan biri.
+
+
+Python:
+
+- Data Types (Ma’lumot turlari): Bu o‘zgaruvchida saqlanadigan ma’lumot turini bildiradi.
+
+int — butun sonlar
+float — kasr sonlar
+str — matnli ma’lumotlar
+bool — mantiqiy qiymatlar (True / False)
+
+- Operations (Amallar): Bu ma’lumotlar ustida bajariladigan amallar
+Arithmetic: +, -, *, /
+Comparison: ==, !=, >, <
+Logical: and, or, not
+Ular hisob-kitob, taqqoslash va mantiqiy tekshiruvlarda ishlatiladi.
+
+- Conditions (Shart operatorlari): Dasturda qaror qabul qilish uchun ishlatiladi.
+if
+elif
+else
+Shartlar yordamida ma’lumot tekshiriladi va natijaga qarab turli kodlar bajariladi.
+
+- For loop: Jarayonni avtomatlashtirish uchun ishlatilinadigan kodlar bloki.
+
+
+

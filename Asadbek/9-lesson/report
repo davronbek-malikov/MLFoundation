@@ -1,0 +1,51 @@
+ML Algorithm family => Classification and Regression
+
+Liner =>
+1. Liner => Liner regression (Regression)
+         Logistic regression (Classification)
+
+Non-liner =>
+1. Tree-based => Decision tree
+              Random forest
+
+2. Distance-based => KNN
+                  SVM
+
+3. Ensemble => Random forest
+            Gradient boosting
+
+
+Logistic regression: Classification tasklar uchun ishlaydi. Sodda va kichik datasetlar uchun yaxshi ishlaydi.
+
+Logistic Regression bosqichlari=> 
+  Data preprocessing (cleaning, encoding, scaling)
+  x, y (inputs(features) va outpu(target) ni aniqlash)
+  splitting (train va test)
+  Trainig(fitting)
+  Predicting
+  Evaluating
+
+CODING:
+
+```x=df.drop("target col name", axis=1)``` => inputlarni aniqlash
+```y=df["target col name"]``` => outputni aniqlash
+
+```from sklearn.model_selection import train_test_split``` => train va test dataga ajratish uchun kutubxonadan funksiyani import qilish
+```x_train,x_test,y_train,y_test=train_test_split(x, y, test_size=0.2, random_state=42)``` => import qilingan funksiyani ishlatish
+```x_train.shape``` => ajratilgan data ni shaklini korish yani nechta ustun va qatordan iboratigini.
+
+
+```from sklearn.linear_model import LogisticRegression``` => Algorithmni import qilish
+```log_reg=LogisticRegression()``` => log_reg ozgaruvchiga algorithmimizni olish.
+```log_reg.fit(x_train, y_train)``` => train uchun ajratgan datamizni fitting qilish
+```log_reg.predict(x_test)``` => test uchun ajratgan datamizni predict qilish
+
+```from sklearn.metrics import accuracy_score``` => Evaluation qilish uchun accuracy_score funksiyasini kutubxonadan import qilish
+```accuracy_score(y_test, y_predict)``` => 0 va 1 oraligida qiymat qaytaradi bu qiymat accuracy score boladi.
+
+
+
+
+
+
+
