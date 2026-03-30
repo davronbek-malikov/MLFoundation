@@ -1,0 +1,251 @@
+title,year,rating,votes,runtime,certificate,genre,gross_total
+The Shawshank Redemption,1994,9.3,"3,168,010",142,R,Drama,$29.33M
+The Godfather,1972,9.2,"2,212,884",175,R,"Crime, Drama",$250.93M
+The Dark Knight,2008,9.1,"3,145,646",152,PG-13,"Action, Crime, Drama",$1008.48M
+The Godfather Part II,1974,9.0,"1,486,878",202,R,"Crime, Drama",$48.20M
+12 Angry Men,1957,9.0,"977,359",96,Unrated,"Crime, Drama",$0.01M
+The Lord of the Rings: The Return of the King,2003,9.0,"2,152,126",201,PG-13,"Adventure, Drama, Fantasy",$1148.97M
+Schindler&apos;s List,1994,9.0,"1,577,558",195,R,"Biography, Drama, History",$322.16M
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,"2,193,491",178,PG-13,"Adventure, Drama, Fantasy",$897.00M
+Pulp Fiction,1994,8.8,"2,421,067",154,R,"Crime, Drama",$213.93M
+"Il buono, il brutto, il cattivo",1967,8.8,"887,227",178,R,"Adventure, Drama, Western",$25.27M
+The Lord of the Rings: The Two Towers,2002,8.8,"1,945,026",179,PG-13,"Adventure, Drama, Fantasy",$944.74M
+Forrest Gump,1994,8.8,"2,479,948",142,PG-13,"Drama, Romance",$678.23M
+Fight Club,1999,8.8,"2,585,212",139,R,"Crime, Drama, Thriller",$101.32M
+Inception,2010,8.8,"2,796,318",148,PG-13,"Action, Adventure, Sci-Fi",$839.79M
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,"1,496,595",124,PG,"Action, Adventure, Fantasy",$550.02M
+The Matrix,1999,8.7,"2,233,701",136,R,"Action, Sci-Fi",$473.33M
+GoodFellas,1990,8.7,"1,382,099",145,R,"Biography, Crime, Drama",$47.08M
+Interstellar,2014,8.7,"2,496,091",169,PG-13,"Adventure, Drama, Sci-Fi",$773.86M
+One Flew Over the Cuckoo&apos;s Nest,1975,8.6,"1,152,486",133,R,Drama,$109.13M
+Se7en,1995,8.6,"2,006,146",127,R,"Crime, Drama, Mystery",$329.81M
+It&apos;s a Wonderful Life,1947,8.6,"552,664",130,PG,"Drama, Family, Fantasy",$11.50M
+The Silence of the Lambs,1991,8.6,"1,711,212",118,R,"Crime, Drama, Horror",$272.74M
+Shichinin no samurai,1956,8.6,"400,179",207,Unrated,"Action, Drama",$1.09M
+Saving Private Ryan,1998,8.6,"1,628,543",169,R,"Drama, War",$482.35M
+The Green Mile,1999,8.6,"1,551,508",189,R,"Crime, Drama, Fantasy",$286.80M
+Cidade de Deus,2004,8.6,"866,611",130,R,"Crime, Drama",$30.69M
+La vita è bella,1997,8.6,"808,265",116,PG-13,"Comedy, Drama, Romance",$230.10M
+Terminator 2: Judgment Day,1991,8.6,"1,277,496",137,R,"Action, Adventure, Sci-Fi",$517.78M
+Star Wars,1977,8.6,"1,561,809",121,PG,"Action, Adventure, Fantasy",$775.40M
+Back to the Future,1985,8.5,"1,442,692",116,PG,"Adventure, Comedy, Sci-Fi",$392.98M
+Sen to Chihiro no kamikakushi,2003,8.6,"959,384",124,PG,"Animation, Adventure, Family",$360.18M
+The Pianist,2003,8.5,"1,006,347",150,R,"Biography, Drama, Music",$120.10M
+Gladiator,2000,8.5,"1,837,102",155,R,"Action, Adventure, Drama",$465.52M
+Gisaengchung,2019,8.5,"1,150,711",132,R,"Drama, Thriller",$262.55M
+Hotaru no haka,1989,8.5,"380,478",88,Unrated,"Animation, Drama, War",$4.70M
+Psycho,1960,8.5,"781,795",109,R,"Drama, Horror, Mystery",$32.27M
+The Lion King,1994,8.5,"1,251,328",88,G,"Animation, Adventure, Drama",$979.16M
+Seppuku,1964,8.6,"89,994",133,Unrated,"Drama, Mystery",$0.02M
+The Departed,2006,8.5,"1,545,064",151,R,"Crime, Drama, Thriller",$292.10M
+Whiplash,2014,8.5,"1,143,440",106,R,"Drama, Music",$50.43M
+The Prestige,2006,8.5,"1,576,959",130,PG-13,"Drama, Mystery, Sci-Fi",$109.68M
+Kill Bill: The Whole Bloody Affair,2025,8.8,"30,141",253,Unrated,"Action, Crime, Thriller",$6.72M
+American History X,1998,8.5,"1,267,862",119,R,"Crime, Drama",$23.88M
+Léon,1994,8.5,"1,344,671",110,R,"Action, Crime, Drama",$20.33M
+Spider-Man: Across the Spider-Verse,2023,8.5,"513,688",140,PG,"Animation, Action, Adventure",$690.82M
+Nuovo Cinema Paradiso,1990,8.5,"315,853",174,PG,"Drama, Romance",$13.50M
+Casablanca,1943,8.5,"653,074",102,PG,"Drama, Romance, War",$4.74M
+Intouchables,2011,8.5,"1,020,643",112,R,"Comedy, Drama",$426.59M
+The Usual Suspects,1995,8.5,"1,232,633",106,R,"Crime, Drama, Mystery",$23.34M
+Alien,1979,8.5,"1,058,161",117,R,"Horror, Sci-Fi",$109.51M
+Django Unchained,2012,8.5,"1,870,222",165,R,"Drama, Western",$426.08M
+Modern Times,1936,8.5,"284,271",87,G,"Comedy, Drama, Romance",$0.47M
+Rear Window,1954,8.5,"566,914",112,PG,"Drama, Mystery, Thriller",$37.92M
+C&apos;era una volta il West,1969,8.5,"382,606",145,PG-13,"Drama, Western",$5.44M
+City Lights,1931,8.5,"215,684",87,G,"Comedy, Drama, Romance",$0.06M
+Apocalypse Now,1979,8.4,"766,922",147,R,"Drama, Mystery, War",$105.27M
+WALL·E,2008,8.4,"1,311,927",98,G,"Animation, Adventure, Family",$527.40M
+Memento,2001,8.4,"1,427,780",113,R,"Drama, Mystery, Thriller",$40.06M
+Dune: Part Two,2024,8.4,"722,936",166,PG-13,"Action, Adventure, Drama",$714.84M
+Raiders of the Lost Ark,1981,8.4,"1,105,828",115,PG,"Action, Adventure",$389.93M
+Avengers: Infinity War,2018,8.4,"1,359,383",149,PG-13,"Action, Adventure, Sci-Fi",$2052.42M
+Das Leben der Anderen,2007,8.4,"441,636",137,R,"Drama, Mystery, Thriller",$77.67M
+Spider-Man: Into the Spider-Verse,2018,8.4,"780,193",117,PG,"Animation, Action, Adventure",$394.88M
+Sunset Blvd.,1950,8.4,"260,009",110,Unrated,"Drama, Film-Noir",$0.34M
+Witness for the Prosecution,1958,8.4,"160,732",116,Unrated,"Crime, Drama, Mystery",$0.01M
+Paths of Glory,1957,8.4,"237,768",88,Unrated,"Drama, War",$0.01M
+The Shining,1980,8.4,"1,218,463",146,R,"Drama, Horror",$50.29M
+The Great Dictator,1941,8.4,"258,580",125,G,"Comedy, Drama, War",$0.97M
+Inglourious Basterds,2009,8.4,"1,769,293",153,R,"Adventure, Drama, War",$321.46M
+12th Fail,2023,8.7,"168,898",147,Unrated,"Biography, Drama",$0.14M
+Aliens,1986,8.4,"837,039",137,R,"Action, Adventure, Horror",$131.06M
+Tengoku to jigoku,1963,8.4,"70,730",143,Unrated,"Crime, Drama, Mystery",$0.06M
+Good Will Hunting,1998,8.4,"1,206,463",126,R,"Drama, Romance",$225.93M
+Avengers: Endgame,2019,8.4,"1,432,148",181,PG-13,"Action, Adventure, Sci-Fi",$2799.44M
+The Dark Knight Rises,2012,8.4,"1,982,116",164,PG-13,"Action, Crime, Drama",$1085.43M
+Coco,2017,8.4,"699,365",105,PG,"Animation, Adventure, Drama",$823.29M
+Amadeus,1984,8.4,"465,769",160,PG,"Biography, Drama, Music",$52.27M
+Toy Story,1995,8.3,"1,166,702",81,G,"Animation, Adventure, Comedy",$401.16M
+Kimi no na wa.,2017,8.4,"387,323",106,Unrated,"Animation, Drama, Fantasy",$405.32M
+Das Boot,1982,8.3,"286,903",149,Unrated,"Drama, War",$11.49M
+Oldeuboi,2003,8.3,"713,159",120,R,"Action, Drama, Mystery",$17.62M
+Braveheart,1995,8.3,"1,156,620",178,R,"Biography, Drama, War",$213.22M
+Mononoke-hime,1997,8.3,"480,469",133,PG-13,"Animation, Adventure, Fantasy",$33.81M
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,"549,702",95,PG,"Comedy, War",$9.67M
+3 Idiots,2009,8.4,"478,860",170,PG-13,"Comedy, Drama",$60.26M
+American Beauty,1999,8.3,"1,275,771",122,R,Drama,$356.30M
+Capharnaüm,2018,8.4,"123,170",126,R,Drama,$64.42M
+Singin&apos; in the Rain,1952,8.3,"281,252",103,G,"Comedy, Musical, Romance",$2.11M
+Joker,2019,8.3,"1,680,640",122,R,"Crime, Drama, Thriller",$1078.96M
+C&apos;era una volta in America,1984,8.3,"407,012",229,R,"Crime, Drama",$5.48M
+Idi i smotri,1985,8.3,"121,365",142,Unrated,"Drama, Thriller, War",$20.93M
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,"1,203,209",131,PG,"Action, Adventure, Fantasy",$482.47M
+Requiem for a Dream,2000,8.3,"968,756",102,NC-17,Drama,$7.39M
+Toy Story 3,2010,8.3,"964,317",103,G,"Animation, Adventure, Comedy",$1067.32M
+Ikiru,1956,8.3,"101,603",143,Unrated,Drama,$0.11M
+Jagten,2012,8.3,"406,436",115,R,Drama,$15.89M
+Incendies,2011,8.3,"247,689",131,R,"Drama, Mystery, War",$6.79M
+Eternal Sunshine of the Spotless Mind,2004,8.3,"1,176,721",108,R,"Drama, Romance, Sci-Fi",$73.31M
+The Apartment,1960,8.3,"218,092",125,Unrated,"Comedy, Drama, Romance",$18.78M
+Lawrence of Arabia,1962,8.3,"340,320",227,Unrated,"Adventure, Biography, Drama",$46.01M
+2001: A Space Odyssey,1968,8.3,"778,954",149,G,"Adventure, Sci-Fi",$68.01M
+Heat,1995,8.3,"796,873",170,R,"Action, Crime, Drama",$187.44M
+Reservoir Dogs,1992,8.3,"1,165,366",99,R,"Crime, Thriller",$2.94M
+Scarface,1983,8.3,"1,009,015",170,R,"Crime, Drama",$66.44M
+Double Indemnity,1944,8.3,"180,523",107,Unrated,"Crime, Drama, Film-Noir",$0.02M
+Up,2009,8.3,"1,228,016",96,PG,"Animation, Adventure, Comedy",$735.10M
+North by Northwest,1959,8.3,"368,598",136,Unrated,"Adventure, Drama, Mystery",$0.21M
+Taare Zameen Par,2007,8.3,"230,698",162,PG,"Drama, Family",$21.90M
+Full Metal Jacket,1987,8.2,"847,150",116,R,"Drama, War",$50.88M
+M - Eine Stadt sucht einen Mörder,1931,8.3,"182,156",99,Unrated,"Crime, Mystery, Thriller",$0.04M
+Citizen Kane,1941,8.2,"492,218",119,PG,"Drama, Mystery",$1.71M
+Le fabuleux destin d&apos;Amélie Poulain,2002,8.3,"836,818",122,R,"Comedy, Romance",$175.42M
+Vertigo,1958,8.2,"457,682",128,PG,"Mystery, Romance, Thriller",$7.99M
+Jodaeiye Nader az Simin,2011,8.3,"276,702",123,PG-13,Drama,$22.93M
+Die Hard,1988,8.2,"1,025,552",132,R,"Action, Thriller",$143.65M
+To Kill a Mockingbird,1963,8.2,"350,648",129,Unrated,"Crime, Drama",$0.61M
+Indiana Jones and the Last Crusade,1989,8.2,"860,418",127,PG-13,"Action, Adventure",$474.17M
+The Sting,1973,8.2,"299,171",129,PG,"Comedy, Crime, Drama",$156.01M
+A Clockwork Orange,1972,8.2,"933,374",136,R,"Crime, Sci-Fi",$27.17M
+Metropolis,1927,8.2,"200,324",153,Unrated,"Drama, Sci-Fi",$1.35M
+1917,2020,8.2,"765,271",119,R,"Action, Drama, War",$446.06M
+Snatch,2001,8.2,"972,794",102,R,"Comedy, Crime",$83.56M
+L.A. Confidential,1997,8.2,"656,577",138,R,"Crime, Drama, Mystery",$126.22M
+Der Untergang,2005,8.2,"398,908",156,R,"Biography, Drama, History",$92.18M
+The Wolf of Wall Street,2013,8.2,"1,772,350",180,R,"Biography, Comedy, Crime",$407.04M
+Dangal,2016,8.3,"240,747",161,Unrated,"Action, Biography, Drama",$303.73M
+The Truman Show,1998,8.2,"1,360,444",103,PG,"Comedy, Drama",$264.12M
+Ladri di biciclette,1949,8.2,"191,919",89,Unrated,Drama,$0.46M
+Oppenheimer,2023,8.2,"1,011,743",180,R,"Biography, Drama, History",$975.81M
+Green Book,2018,8.2,"677,929",130,PG-13,"Biography, Comedy, Drama",$321.75M
+Shutter Island,2010,8.2,"1,631,737",138,R,"Drama, Mystery, Thriller",$294.98M
+Judgment at Nuremberg,1961,8.3,"96,461",179,Unrated,"Drama, History, War",$0.01M
+Batman Begins,2005,8.2,"1,703,662",140,PG-13,"Action, Crime, Drama",$375.58M
+Hamilton,2020,8.3,"137,958",160,PG-13,"Biography, Drama, History",$20.94M
+Per qualche dollaro in più,1967,8.2,"298,846",132,R,"Drama, Western",$15.00M
+Taxi Driver,1976,8.2,"1,020,084",114,R,"Crime, Drama",$28.98M
+Jurassic Park,1993,8.2,"1,169,814",127,PG-13,"Action, Adventure, Sci-Fi",$1103.11M
+Some Like It Hot,1959,8.2,"303,664",121,Unrated,"Comedy, Music, Romance",$0.21M
+There Will Be Blood,2008,8.2,"703,624",158,R,Drama,$76.43M
+The Kid,1921,8.2,"145,076",68,Unrated,"Comedy, Drama, Family",$0.05M
+The Father,2021,8.2,"242,331",97,PG-13,"Drama, Mystery",$24.05M
+All About Eve,1950,8.2,"148,633",138,Unrated,Drama,$0.16M
+The Sixth Sense,1999,8.2,"1,138,184",107,PG-13,"Drama, Mystery, Thriller",$672.81M
+Ran,1985,8.2,"150,999",160,R,"Action, Drama, War",$4.42M
+Casino,1995,8.2,"615,465",178,R,"Crime, Drama",$116.11M
+No Country for Old Men,2007,8.2,"1,179,896",122,R,"Crime, Drama, Thriller",$171.64M
+The Thing,1982,8.2,"522,863",109,R,"Horror, Mystery, Sci-Fi",$20.87M
+Top Gun: Maverick,2022,8.2,"849,682",130,PG-13,"Action, Drama",$1495.70M
+Prisoners,2013,8.2,"925,536",153,R,"Crime, Drama, Mystery",$122.13M
+Kill Bill: Vol. 1,2003,8.2,"1,299,105",111,R,"Action, Crime, Thriller",$180.91M
+El laberinto del fauno,2007,8.2,"744,307",118,R,"Drama, Fantasy, War",$83.86M
+Unforgiven,1992,8.2,"466,753",130,R,"Drama, Western",$159.17M
+A Beautiful Mind,2002,8.2,"1,049,366",135,PG-13,"Biography, Drama, Mystery",$316.79M
+The Treasure of the Sierra Madre,1948,8.2,"140,941",126,Unrated,"Adventure, Drama, Western",$5.01M
+Hauru no ugoku shiro,2005,8.2,"508,081",119,PG,"Animation, Adventure, Family",$243.39M
+Finding Nemo,2003,8.2,"1,200,849",100,G,"Animation, Adventure, Comedy",$941.64M
+Klaus,2019,8.2,"234,496",96,PG,"Animation, Adventure, Comedy",
+Yôjinbô,1961,8.2,"142,437",110,Unrated,"Action, Drama, Thriller",$0.07M
+The Great Escape,1963,8.2,"276,420",172,Unrated,"Adventure, Drama, Thriller",$0.23M
+The Elephant Man,1980,8.2,"281,198",124,PG,"Biography, Drama",$26.08M
+Monty Python and the Holy Grail,1975,8.2,"601,468",91,PG,"Adventure, Comedy, Fantasy",$2.94M
+Dial M for Murder,1954,8.1,"203,905",105,PG,"Crime, Drama, Mystery",$0.05M
+La meglio gioventù,2003,8.4,"27,811",374,R,"Drama, Romance",$2.80M
+Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,8.4,"66,370",155,R,"Animation, Action, Adventure",$740.85M
+El secreto de sus ojos,2010,8.2,"240,984",129,R,"Drama, Mystery, Romance",$35.08M
+Gone with the Wind,1940,8.2,"355,221",238,G,"Drama, Romance, War",$402.38M
+Chinatown,1974,8.1,"375,550",130,R,"Drama, Mystery, Thriller",$29.23M
+"Lock, Stock and Two Smoking Barrels",1998,8.1,"648,246",107,R,"Comedy, Crime",$3.75M
+V for Vendetta,2006,8.1,"1,241,984",132,R,"Action, Drama, Sci-Fi",$134.69M
+Catch Me If You Can,2002,8.1,"1,225,671",141,PG-13,"Biography, Crime, Drama",$352.11M
+Inside Out,2015,8.1,"907,637",95,PG,"Animation, Adventure, Comedy",$859.08M
+Rashômon,1951,8.1,"195,645",88,Unrated,"Crime, Drama, Mystery",$0.14M
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,"603,567",115,R,"Comedy, Crime, Drama",$162.73M
+Trainspotting,1996,8.1,"766,474",93,R,"Crime, Drama",$16.99M
+The Bridge on the River Kwai,1957,8.1,"247,890",161,PG,"Adventure, Drama, War",$27.20M
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"1,039,009",130,PG-13,"Adventure, Family, Fantasy",$1342.94M
+Dead Poets Society,1989,8.1,"645,268",128,PG,"Comedy, Drama",$235.86M
+Hababam Sinifi: Sinifta Kaldi,1975,8.5,"30,134",95,Unrated,Comedy,
+The Wild Robot,2024,8.2,"217,407",102,PG,"Animation, Adventure, Family",$334.54M
+Warrior,2011,8.1,"526,794",140,PG-13,"Action, Drama, Sport",$23.31M
+Fargo,1996,8.1,"783,492",98,R,"Crime, Drama, Thriller",$60.61M
+Barry Lyndon,1975,8.1,"203,027",185,PG,"Adventure, Drama, War",$0.58M
+Raging Bull,1980,8.1,"408,711",129,R,"Biography, Drama, Sport",$23.41M
+Ben-Hur,1959,8.1,"270,381",212,G,"Adventure, Drama",$74.44M
+Million Dollar Baby,2005,8.1,"763,230",132,PG-13,"Drama, Sport",$216.76M
+Mad Max: Fury Road,2015,8.1,"1,200,736",120,R,"Action, Adventure, Sci-Fi",$380.46M
+Bacheha-ye aseman,1999,8.2,"89,440",89,PG,"Drama, Family, Sport",$0.93M
+Hacksaw Ridge,2016,8.1,"674,696",139,R,"Biography, Drama, History",$180.56M
+Tonari no Totoro,1990,8.1,"428,023",86,G,"Animation, Adventure, Comedy",$31.04M
+Gran Torino,2009,8.1,"858,707",116,R,Drama,$269.96M
+12 Years a Slave,2013,8.1,"783,533",134,R,"Biography, Drama, History",$187.73M
+Ratatouille,2007,8.1,"935,027",111,G,"Animation, Adventure, Comedy",$623.74M
+The Grand Budapest Hotel,2014,8.1,"963,687",99,R,"Comedy, Drama",$174.57M
+Before Sunrise,1995,8.1,"374,563",101,R,"Comedy, Drama, Romance",$6.58M
+Salinui chueok,2003,8.1,"263,135",131,Unrated,"Crime, Drama, Mystery",$1.21M
+Blade Runner,1982,8.1,"877,911",117,R,"Action, Drama, Sci-Fi",$41.80M
+How to Train Your Dragon,2010,8.1,"887,580",98,PG,"Animation, Action, Adventure",$494.88M
+Spider-Man: No Way Home,2021,8.1,"1,007,947",148,PG-13,"Action, Adventure, Fantasy",$1921.43M
+Gone Girl,2014,8.1,"1,161,682",149,R,"Drama, Mystery, Thriller",$370.89M
+"Monsters, Inc.",2001,8.1,"1,068,117",92,G,"Animation, Adventure, Comedy",$579.77M
+Jaws,1975,8.1,"733,019",124,PG,"Adventure, Horror, Thriller",$490.74M
+In the Name of the Father,1994,8.1,"201,918",133,R,"Biography, Crime, Drama",$65.80M
+Ford v Ferrari,2019,8.1,"565,191",152,PG-13,"Action, Biography, Drama",$226.30M
+Relatos salvajes,2014,8.1,"236,910",122,R,"Comedy, Drama, Thriller",$31.48M
+The Gold Rush,1925,8.1,"127,706",95,Unrated,"Adventure, Comedy, Drama",$0.08M
+Sherlock Jr.,1924,8.1,"65,275",45,Unrated,"Action, Comedy, Romance",$0.00M
+Mary and Max.,2009,8.1,"201,032",92,Unrated,"Animation, Comedy, Drama",$1.74M
+The Deer Hunter,1979,8.1,"385,457",183,R,"Drama, War",$49.08M
+Le salaire de la peur,1955,8.1,"73,155",156,Unrated,"Adventure, Drama, Thriller",$0.02M
+The General,1927,8.1,"105,801",78,Unrated,"Action, Adventure, Comedy",$0.00M
+Logan,2017,8.1,"920,531",137,R,"Action, Drama, Sci-Fi",$619.18M
+Rocky,1976,8.1,"684,714",120,PG,"Drama, Sport",$117.25M
+Mr. Smith Goes to Washington,1939,8.1,"129,062",129,Unrated,"Comedy, Drama",$0.15M
+Tôkyô monogatari,1972,8.1,"77,208",137,Unrated,Drama,$0.09M
+On the Waterfront,1954,8.1,"177,149",108,Unrated,"Crime, Drama, Thriller",$0.00M
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,"1,316,491",143,PG-13,"Action, Adventure, Fantasy",$654.26M
+Smultronstället,1959,8.1,"124,052",92,Unrated,"Drama, Romance",$0.10M
+Spotlight,2015,8.1,"532,914",129,R,"Biography, Crime, Drama",$98.69M
+Koe no katachi,2016,8.2,"138,542",130,Unrated,"Animation, Drama",$30.82M
+La haine,1996,8.1,"224,218",98,Unrated,"Crime, Drama",$0.76M
+The Terminator,1984,8.1,"998,811",107,R,"Action, Adventure, Sci-Fi",$78.37M
+Maharaja,2024,8.3,"80,431",141,Unrated,"Action, Crime, Drama",$0.98M
+The Third Man,1950,8.1,"194,653",104,Unrated,"Drama, Film-Noir, Mystery",$1.43M
+The Sound of Music,1965,8.1,"289,886",174,G,"Biography, Drama, Family",$161.51M
+Jai Bhim,2021,8.6,"233,427",164,Unrated,"Crime, Drama",
+The Big Lebowski,1998,8.1,"913,539",117,R,"Comedy, Crime",$48.26M
+The Best Years of Our Lives,1947,8.1,"77,141",170,Unrated,"Drama, Romance, War",$23.67M
+Det sjunde inseglet,1958,8.1,"215,189",96,Unrated,"Drama, Fantasy",$0.34M
+Before Sunset,2004,8.1,"313,141",80,R,"Drama, Romance",$16.51M
+Room,2016,8.1,"478,524",118,R,"Drama, Thriller",$35.40M
+Hotel Rwanda,2005,8.1,"390,915",121,PG-13,"Biography, Drama, History",$33.88M
+Gekijô-ban Chensô Man Reze-hen,2025,8.3,"49,117",100,R,"Animation, Action, Adventure",$163.06M
+The Incredibles,2004,8.0,"894,329",115,PG,"Animation, Action, Adventure",$631.69M
+Platoon,1986,8.1,"470,820",120,R,"Drama, War",$138.55M
+Hachi: A Dog&apos;s Tale,2010,8.1,"340,864",93,G,"Biography, Drama, Family",$46.75M
+The Exorcist,1973,8.1,"496,255",122,R,Horror,$430.87M
+Rush,2013,8.1,"556,044",123,R,"Biography, Drama, Sport",$93.33M
+The Iron Giant,1999,8.1,"258,235",86,PG,"Animation, Action, Adventure",$23.34M
+The Wizard of Oz,1939,8.1,"465,566",102,G,"Adventure, Family, Fantasy",$25.64M
+Stand by Me,1986,8.1,"484,400",89,R,"Adventure, Comedy, Drama",$53.53M
+La passion de Jeanne d&apos;Arc,1928,8.1,"67,817",114,Unrated,"Biography, Drama, History",$0.02M
+Babam ve Oglum,2005,8.2,"100,337",112,Unrated,"Drama, Family",$18.61M
+La battaglia di Algeri,1967,8.1,"75,159",121,Unrated,"Drama, War",$0.96M
+Ah-ga-ssi,2017,8.1,"201,118",145,Unrated,"Drama, Romance, Thriller",$37.96M
+Network,1976,8.1,"185,436",121,R,Drama,$23.70M
+Drishyam,2015,8.2,"107,875",163,Unrated,"Crime, Drama, Mystery",$11.00M
+The Grapes of Wrath,1940,8.1,"108,041",129,Unrated,Drama,$0.01M
+To Be or Not to Be,1942,8.1,"49,586",99,Unrated,"Comedy, Romance, War",$0.00M
+Gangs of Wasseypur,2012,8.2,"113,517",321,Unrated,"Action, Comedy, Crime",$4.38M
+Höstsonaten,1978,8.1,"41,972",99,PG,"Drama, Music",$0.04M
