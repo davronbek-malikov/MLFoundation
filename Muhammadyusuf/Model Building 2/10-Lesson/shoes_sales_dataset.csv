@@ -1,0 +1,1001 @@
+Sale_ID,Date,Brand,Shoe_Type,Color,Country,Sales_Channel,Price_USD,Units_Sold,Revenue_USD
+S1,2025-11-24,Nike,Boots,Blue,UK,Online,112.4,4,449.6
+S2,2025-03-13,Skechers,Boots,Grey,USA,Mall,239.16,4,956.64
+S3,2025-08-05,Nike,Running,White,UK,Mall,191.04,2,382.08
+S4,2025-11-05,New Balance,Casual,Green,UAE,Mall,161.7,1,161.7
+S5,2025-10-07,Adidas,Formal,Grey,France,Online,64.32,14,900.48
+S6,2025-03-23,Puma,Sports,White,UK,Retail Store,64.32,14,900.48
+S7,2025-02-22,Reebok,Running,Blue,Saudi Arabia,Retail Store,42.78,3,128.34
+S8,2025-11-06,Nike,Boots,Red,India,Online,220.56,9,1985.04
+S9,2025-07-13,New Balance,Sports,Green,India,Retail Store,162.25,3,486.75
+S10,2025-10-23,Skechers,Running,Black,UAE,Online,185.78,7,1300.46
+S11,2025-05-29,Adidas,Running,Red,France,Retail Store,34.53,3,103.59
+S12,2025-11-22,Adidas,Sports,Blue,UK,Mall,243.38,12,2920.56
+S13,2025-05-17,New Balance,Boots,White,India,Mall,213.14,3,639.42
+S14,2025-05-06,Reebok,Formal,Blue,UAE,Mall,76.71,6,460.26
+S15,2025-10-13,Skechers,Sports,Black,UK,Online,70.0,8,560.0
+S16,2025-06-11,Puma,Running,White,India,Mall,70.35,13,914.55
+S17,2025-06-11,Skechers,Formal,Red,UAE,Retail Store,96.93,7,678.51
+S18,2025-03-15,Adidas,Casual,Green,India,Mall,145.45,9,1309.05
+S19,2025-05-15,Reebok,Sneakers,Red,France,Online,125.03,19,2375.57
+S20,2025-03-12,Reebok,Running,Black,Saudi Arabia,Online,94.07,17,1599.19
+S21,2025-03-20,Skechers,Formal,Grey,USA,Retail Store,164.61,6,987.66
+S22,2025-07-15,Reebok,Sneakers,Blue,India,Online,60.69,20,1213.8
+S23,2025-12-15,Skechers,Sneakers,Blue,Saudi Arabia,Mall,94.27,4,377.08
+S24,2025-06-24,Puma,Formal,White,Germany,Online,110.6,4,442.4
+S25,2025-05-15,Adidas,Sneakers,Black,Saudi Arabia,Mall,130.34,17,2215.78
+S26,2025-06-02,New Balance,Casual,White,France,Online,202.74,17,3446.58
+S27,2025-10-04,Nike,Sneakers,Blue,Germany,Online,73.93,17,1256.81
+S28,2025-02-27,Puma,Casual,Black,UK,Mall,143.13,12,1717.56
+S29,2025-02-10,Skechers,Formal,Black,Saudi Arabia,Mall,160.33,3,480.99
+S30,2025-03-06,Skechers,Formal,Grey,UK,Retail Store,40.22,5,201.1
+S31,2025-09-28,Reebok,Casual,Grey,Saudi Arabia,Mall,163.66,20,3273.2
+S32,2025-12-20,Skechers,Sports,Red,UAE,Mall,67.52,7,472.64
+S33,2025-07-11,New Balance,Formal,Black,UK,Online,44.31,15,664.65
+S34,2025-02-02,Nike,Sneakers,Grey,UK,Mall,238.75,11,2626.25
+S35,2025-04-23,Nike,Boots,Green,USA,Online,242.44,1,242.44
+S36,2025-02-04,Puma,Running,Grey,UK,Retail Store,207.85,2,415.7
+S37,2025-12-09,Adidas,Sneakers,White,UAE,Mall,97.02,16,1552.32
+S38,2025-10-23,Adidas,Formal,Red,UK,Online,51.49,16,823.84
+S39,2025-02-19,Puma,Formal,Red,Germany,Mall,180.53,14,2527.42
+S40,2025-01-28,Nike,Formal,Green,France,Online,126.83,4,507.32
+S41,2025-05-08,Adidas,Sneakers,Red,UK,Retail Store,56.85,7,397.95
+S42,2025-04-04,Reebok,Casual,Black,Germany,Mall,138.94,9,1250.46
+S43,2025-02-20,Skechers,Sneakers,Black,USA,Online,37.57,2,75.14
+S44,2025-03-27,Reebok,Formal,White,Saudi Arabia,Retail Store,230.05,14,3220.7
+S45,2025-01-31,Reebok,Running,Red,France,Retail Store,86.93,6,521.58
+S46,2025-05-27,Skechers,Boots,Grey,UAE,Mall,175.75,14,2460.5
+S47,2025-09-07,Adidas,Sports,White,USA,Mall,98.58,5,492.9
+S48,2025-10-05,Skechers,Sports,Black,USA,Mall,144.41,2,288.82
+S49,2025-09-02,New Balance,Casual,Black,India,Online,150.28,17,2554.76
+S50,2025-04-06,New Balance,Running,Green,Saudi Arabia,Online,70.67,3,212.01
+S51,2025-07-26,New Balance,Casual,Grey,India,Online,243.31,4,973.24
+S52,2025-11-14,Reebok,Boots,Grey,India,Mall,200.53,3,601.59
+S53,2025-06-11,Adidas,Boots,Green,France,Online,236.69,9,2130.21
+S54,2025-05-16,Adidas,Boots,Green,France,Retail Store,226.86,13,2949.18
+S55,2025-06-11,Nike,Formal,Grey,India,Online,161.54,3,484.62
+S56,2025-02-07,Adidas,Sneakers,Blue,UK,Retail Store,232.81,18,4190.58
+S57,2025-02-05,Puma,Sports,White,Germany,Mall,49.47,8,395.76
+S58,2025-12-27,New Balance,Boots,Grey,USA,Mall,73.12,10,731.2
+S59,2025-10-11,Skechers,Running,White,France,Online,39.95,10,399.5
+S60,2025-02-24,Adidas,Sports,Blue,India,Online,101.57,18,1828.26
+S61,2025-06-25,Skechers,Boots,Blue,India,Retail Store,115.51,7,808.57
+S62,2025-05-09,Nike,Boots,Red,Saudi Arabia,Retail Store,89.7,2,179.4
+S63,2025-01-23,Puma,Casual,Green,France,Online,212.32,1,212.32
+S64,2025-08-15,Skechers,Formal,Grey,USA,Online,108.49,18,1952.82
+S65,2025-02-08,New Balance,Running,Blue,India,Mall,91.81,5,459.05
+S66,2025-03-17,Adidas,Running,Blue,France,Online,149.39,14,2091.46
+S67,2025-07-03,Skechers,Casual,Green,USA,Retail Store,61.0,7,427.0
+S68,2025-10-14,New Balance,Boots,White,UK,Online,206.48,14,2890.72
+S69,2025-04-01,Nike,Casual,Green,France,Retail Store,46.4,14,649.6
+S70,2025-12-09,Puma,Casual,Green,USA,Retail Store,247.12,8,1976.96
+S71,2025-01-20,Adidas,Casual,Red,France,Retail Store,199.89,16,3198.24
+S72,2025-04-27,Nike,Boots,White,Germany,Retail Store,73.72,8,589.76
+S73,2025-05-23,Puma,Sports,Green,India,Retail Store,31.21,3,93.63
+S74,2025-12-14,Puma,Running,Black,France,Online,209.4,18,3769.2
+S75,2025-10-25,Nike,Running,Grey,Germany,Retail Store,185.51,9,1669.59
+S76,2025-06-10,New Balance,Sneakers,Black,Germany,Mall,190.38,14,2665.32
+S77,2025-04-08,Nike,Boots,Red,USA,Mall,199.68,9,1797.12
+S78,2025-10-03,Puma,Formal,Black,UAE,Retail Store,46.29,7,324.03
+S79,2025-11-16,Skechers,Running,Green,France,Mall,108.86,11,1197.46
+S80,2025-06-08,Puma,Formal,Green,France,Mall,55.49,14,776.86
+S81,2025-03-07,Reebok,Boots,Red,UAE,Mall,219.88,7,1539.16
+S82,2025-03-31,New Balance,Sports,Red,India,Online,167.13,20,3342.6
+S83,2025-06-05,Adidas,Formal,Grey,India,Mall,102.8,10,1028.0
+S84,2025-06-14,Reebok,Formal,Green,UK,Mall,43.98,15,659.7
+S85,2025-08-31,Skechers,Running,Blue,India,Mall,98.42,6,590.52
+S86,2025-11-21,Puma,Running,White,UAE,Retail Store,101.54,20,2030.8
+S87,2025-04-26,Adidas,Running,Black,UK,Retail Store,190.51,7,1333.57
+S88,2025-11-09,Reebok,Formal,Green,India,Online,170.26,3,510.78
+S89,2025-12-23,Reebok,Formal,White,UK,Mall,225.19,13,2927.47
+S90,2025-12-19,Nike,Formal,White,UK,Mall,133.89,1,133.89
+S91,2025-09-23,Nike,Sneakers,White,Saudi Arabia,Online,56.31,15,844.65
+S92,2025-08-22,Reebok,Boots,Grey,India,Mall,186.91,5,934.55
+S93,2025-06-12,New Balance,Boots,Grey,Germany,Mall,197.37,15,2960.55
+S94,2025-08-17,Skechers,Formal,Red,France,Online,153.48,6,920.88
+S95,2025-11-23,New Balance,Formal,Green,UK,Retail Store,199.61,9,1796.49
+S96,2025-08-14,Skechers,Sports,White,France,Retail Store,138.64,3,415.92
+S97,2025-06-13,Nike,Casual,White,UK,Retail Store,145.0,18,2610.0
+S98,2025-12-22,Skechers,Casual,Black,Germany,Retail Store,124.06,5,620.3
+S99,2025-06-19,Reebok,Formal,Black,UK,Retail Store,35.59,18,640.62
+S100,2025-07-19,Skechers,Running,Grey,Germany,Retail Store,53.74,19,1021.06
+S101,2025-01-04,Puma,Formal,Red,India,Mall,36.91,12,442.92
+S102,2025-10-07,Adidas,Formal,White,France,Retail Store,170.01,20,3400.2
+S103,2025-09-06,Reebok,Sports,Green,UAE,Retail Store,99.16,1,99.16
+S104,2025-03-26,Adidas,Sneakers,Grey,USA,Retail Store,141.89,15,2128.35
+S105,2025-10-31,Skechers,Running,Black,UAE,Retail Store,229.66,19,4363.54
+S106,2025-03-11,Adidas,Running,Blue,Germany,Retail Store,84.84,15,1272.6
+S107,2025-04-19,Puma,Sports,Red,France,Retail Store,120.28,15,1804.2
+S108,2025-05-10,Reebok,Running,Green,India,Online,196.22,3,588.66
+S109,2025-06-29,Skechers,Running,Green,USA,Online,80.34,8,642.72
+S110,2025-05-07,Nike,Sneakers,White,UK,Online,46.94,7,328.58
+S111,2025-08-31,New Balance,Casual,Red,UAE,Retail Store,93.75,4,375.0
+S112,2025-07-08,New Balance,Sneakers,Green,UAE,Online,65.47,6,392.82
+S113,2025-03-25,Nike,Sneakers,Black,France,Mall,234.53,10,2345.3
+S114,2025-12-13,Reebok,Boots,White,USA,Mall,207.79,13,2701.27
+S115,2025-12-20,Nike,Boots,Blue,Saudi Arabia,Mall,169.35,8,1354.8
+S116,2025-11-04,New Balance,Running,Blue,India,Retail Store,221.72,4,886.88
+S117,2025-12-05,Nike,Sneakers,Green,France,Online,206.81,12,2481.72
+S118,2025-08-04,Nike,Formal,Blue,UAE,Retail Store,71.05,16,1136.8
+S119,2025-12-29,Reebok,Casual,Green,India,Mall,226.36,5,1131.8
+S120,2025-05-19,New Balance,Formal,Red,Germany,Mall,148.66,20,2973.2
+S121,2025-10-31,Puma,Casual,Black,France,Retail Store,207.64,9,1868.76
+S122,2025-05-05,New Balance,Sneakers,Green,Germany,Retail Store,227.14,15,3407.1
+S123,2025-01-15,Puma,Casual,Red,UK,Retail Store,99.96,16,1599.36
+S124,2025-05-13,Puma,Sneakers,Green,France,Mall,54.21,11,596.31
+S125,2025-01-06,Adidas,Running,White,UAE,Retail Store,80.15,17,1362.55
+S126,2025-09-08,Adidas,Boots,Red,UAE,Mall,123.96,18,2231.28
+S127,2025-09-09,Nike,Running,Blue,UK,Retail Store,209.96,15,3149.4
+S128,2025-12-21,Puma,Boots,Grey,France,Retail Store,219.36,8,1754.88
+S129,2025-10-11,Puma,Formal,Green,India,Retail Store,31.53,17,536.01
+S130,2025-06-30,Puma,Sports,Blue,UK,Online,142.36,15,2135.4
+S131,2025-04-09,Nike,Boots,Grey,Saudi Arabia,Mall,121.83,11,1340.13
+S132,2025-04-05,Adidas,Boots,Red,France,Mall,78.86,7,552.02
+S133,2025-10-29,New Balance,Sports,Black,Saudi Arabia,Online,56.37,17,958.29
+S134,2025-06-01,Puma,Casual,Blue,USA,Mall,104.28,8,834.24
+S135,2025-10-01,Puma,Running,Black,India,Retail Store,237.44,5,1187.2
+S136,2025-12-24,Skechers,Formal,Black,Saudi Arabia,Online,101.1,5,505.5
+S137,2025-10-21,Reebok,Formal,Red,France,Online,144.13,10,1441.3
+S138,2025-01-27,Reebok,Running,Black,Germany,Retail Store,184.66,9,1661.94
+S139,2025-02-07,Skechers,Boots,Black,UK,Online,110.0,19,2090.0
+S140,2025-10-16,Nike,Casual,Black,India,Retail Store,243.79,10,2437.9
+S141,2025-11-07,New Balance,Casual,Grey,Germany,Retail Store,241.74,20,4834.8
+S142,2025-08-15,New Balance,Formal,Blue,India,Mall,85.39,10,853.9
+S143,2025-01-31,Skechers,Running,White,UAE,Online,139.39,20,2787.8
+S144,2025-05-16,Adidas,Casual,White,India,Online,96.19,3,288.57
+S145,2025-03-22,Reebok,Formal,Green,India,Retail Store,92.66,1,92.66
+S146,2025-05-30,Adidas,Sports,Green,France,Mall,38.12,2,76.24
+S147,2025-08-21,Skechers,Casual,Blue,Saudi Arabia,Mall,164.1,3,492.3
+S148,2025-10-29,Reebok,Running,Grey,UK,Mall,140.59,7,984.13
+S149,2025-03-18,Adidas,Running,Black,UK,Retail Store,41.33,9,371.97
+S150,2025-11-01,Puma,Formal,Black,Germany,Mall,91.3,19,1734.7
+S151,2025-06-05,Puma,Sneakers,Grey,Germany,Retail Store,229.82,13,2987.66
+S152,2025-02-11,Nike,Formal,Green,France,Mall,82.7,20,1654.0
+S153,2025-05-09,Nike,Casual,Green,Saudi Arabia,Mall,61.88,1,61.88
+S154,2025-10-28,Skechers,Sports,Grey,USA,Online,137.68,1,137.68
+S155,2025-08-29,Skechers,Formal,Blue,UK,Mall,246.84,17,4196.28
+S156,2025-08-12,Nike,Formal,Blue,Germany,Retail Store,83.25,16,1332.0
+S157,2025-06-14,Adidas,Sports,Red,UAE,Retail Store,177.87,4,711.48
+S158,2025-05-28,New Balance,Running,Red,USA,Retail Store,197.56,13,2568.28
+S159,2025-05-10,Nike,Formal,Grey,Saudi Arabia,Online,82.28,11,905.08
+S160,2025-12-03,Reebok,Formal,Black,UK,Mall,190.21,18,3423.78
+S161,2025-07-05,Reebok,Boots,Red,Saudi Arabia,Online,110.91,20,2218.2
+S162,2025-04-15,New Balance,Casual,Blue,Germany,Mall,169.11,9,1521.99
+S163,2025-09-06,Nike,Boots,Grey,Saudi Arabia,Online,169.38,4,677.52
+S164,2025-12-30,Puma,Sneakers,Black,India,Retail Store,147.87,6,887.22
+S165,2025-02-17,Nike,Formal,Black,UAE,Online,49.86,8,398.88
+S166,2025-09-13,New Balance,Boots,Blue,Germany,Retail Store,213.77,10,2137.7
+S167,2025-08-30,Reebok,Sneakers,White,Germany,Online,100.57,8,804.56
+S168,2025-11-03,Skechers,Casual,Black,France,Retail Store,71.03,17,1207.51
+S169,2025-06-24,Puma,Running,Blue,UAE,Retail Store,38.97,17,662.49
+S170,2025-10-28,Skechers,Formal,White,Germany,Mall,160.0,19,3040.0
+S171,2025-09-05,Puma,Sneakers,Grey,Germany,Retail Store,179.06,12,2148.72
+S172,2025-06-14,Skechers,Casual,Grey,Germany,Online,33.65,7,235.55
+S173,2025-07-30,Puma,Boots,Red,UAE,Retail Store,142.66,2,285.32
+S174,2025-07-17,Reebok,Running,White,India,Mall,79.83,5,399.15
+S175,2025-06-19,Reebok,Running,Grey,Germany,Online,171.94,4,687.76
+S176,2025-03-15,Skechers,Casual,Black,Germany,Retail Store,68.36,14,957.04
+S177,2025-06-23,Skechers,Formal,Green,USA,Retail Store,182.01,20,3640.2
+S178,2025-12-12,Reebok,Sports,Green,UAE,Retail Store,115.08,18,2071.44
+S179,2025-10-05,New Balance,Running,White,UAE,Mall,236.08,2,472.16
+S180,2025-05-28,Skechers,Running,Red,USA,Mall,60.25,8,482.0
+S181,2025-12-27,Reebok,Casual,Green,France,Online,105.03,4,420.12
+S182,2025-01-24,Nike,Sports,Blue,France,Retail Store,54.96,11,604.56
+S183,2025-03-16,New Balance,Formal,Grey,UAE,Online,233.43,8,1867.44
+S184,2025-03-29,Nike,Sneakers,Red,India,Mall,223.01,6,1338.06
+S185,2025-05-04,New Balance,Casual,White,Germany,Mall,86.75,16,1388.0
+S186,2025-05-11,Puma,Boots,Black,Saudi Arabia,Retail Store,175.2,15,2628.0
+S187,2025-05-28,Adidas,Running,Red,France,Mall,209.79,18,3776.22
+S188,2025-06-03,Skechers,Sports,Red,Saudi Arabia,Retail Store,152.14,14,2129.96
+S189,2025-04-12,Reebok,Running,White,Germany,Mall,146.52,13,1904.76
+S190,2025-07-03,Puma,Boots,Blue,USA,Mall,83.21,19,1580.99
+S191,2025-07-22,Nike,Sneakers,Green,Saudi Arabia,Mall,50.48,9,454.32
+S192,2025-01-26,Skechers,Formal,Blue,Saudi Arabia,Online,227.39,20,4547.8
+S193,2025-11-07,Adidas,Boots,White,India,Retail Store,228.09,12,2737.08
+S194,2025-12-14,Skechers,Running,Green,UAE,Online,169.28,5,846.4
+S195,2025-06-08,Nike,Sneakers,Blue,UAE,Online,104.59,15,1568.85
+S196,2025-02-16,Puma,Boots,Red,UK,Online,106.83,10,1068.3
+S197,2025-03-09,Puma,Sneakers,Grey,France,Online,189.71,18,3414.78
+S198,2025-05-12,Puma,Boots,Blue,Saudi Arabia,Online,227.36,16,3637.76
+S199,2025-08-28,Adidas,Casual,Green,UAE,Mall,225.16,3,675.48
+S200,2025-07-23,Puma,Running,Red,USA,Retail Store,201.57,18,3628.26
+S201,2025-10-02,Reebok,Sports,Green,UAE,Mall,171.25,4,685.0
+S202,2025-05-15,Reebok,Boots,Blue,USA,Mall,48.51,19,921.69
+S203,2025-04-30,Nike,Sneakers,Grey,France,Mall,65.56,16,1048.96
+S204,2025-04-24,Skechers,Formal,Green,France,Mall,227.68,3,683.04
+S205,2025-07-29,Adidas,Running,Black,France,Retail Store,163.41,4,653.64
+S206,2025-03-01,Adidas,Sneakers,White,Germany,Retail Store,32.02,4,128.08
+S207,2025-07-09,Reebok,Sneakers,Green,UAE,Online,52.32,18,941.76
+S208,2025-08-01,Reebok,Sneakers,Red,France,Online,175.97,4,703.88
+S209,2025-12-20,Adidas,Formal,Red,UK,Retail Store,31.11,12,373.32
+S210,2025-02-20,New Balance,Boots,Blue,USA,Retail Store,65.38,12,784.56
+S211,2025-05-22,Nike,Formal,Black,UAE,Online,150.72,7,1055.04
+S212,2025-11-25,Nike,Running,Blue,UK,Online,182.22,20,3644.4
+S213,2025-10-17,Nike,Sneakers,White,India,Online,173.43,7,1214.01
+S214,2025-04-30,Adidas,Sneakers,Black,France,Online,79.34,11,872.74
+S215,2025-03-08,Puma,Casual,Black,UAE,Online,186.68,18,3360.24
+S216,2025-03-09,Puma,Casual,Grey,France,Online,82.19,1,82.19
+S217,2025-03-31,Nike,Casual,Green,Germany,Mall,101.59,9,914.31
+S218,2025-02-28,Reebok,Formal,Blue,India,Mall,194.23,3,582.69
+S219,2025-02-25,New Balance,Casual,Grey,USA,Mall,172.92,15,2593.8
+S220,2025-12-04,Puma,Formal,Green,USA,Online,216.83,17,3686.11
+S221,2025-09-03,Reebok,Boots,Black,Germany,Mall,174.67,13,2270.71
+S222,2025-08-16,Nike,Sports,Grey,UK,Online,155.03,3,465.09
+S223,2025-03-06,New Balance,Boots,Grey,India,Mall,50.61,9,455.49
+S224,2025-06-16,New Balance,Sneakers,Blue,Germany,Mall,110.9,13,1441.7
+S225,2025-11-06,Nike,Boots,Black,Saudi Arabia,Mall,88.34,14,1236.76
+S226,2025-11-30,Skechers,Casual,Red,Germany,Online,83.68,18,1506.24
+S227,2025-07-31,Reebok,Formal,Red,UAE,Online,244.06,11,2684.66
+S228,2025-06-10,Puma,Boots,Blue,France,Online,116.48,14,1630.72
+S229,2025-12-18,Nike,Running,Black,USA,Retail Store,226.25,16,3620.0
+S230,2025-02-19,Adidas,Sneakers,Black,India,Mall,168.85,12,2026.2
+S231,2025-10-15,Skechers,Running,Red,France,Mall,204.86,11,2253.46
+S232,2025-08-05,Puma,Sneakers,Blue,France,Online,140.58,2,281.16
+S233,2025-10-23,Adidas,Casual,Green,Germany,Online,156.92,17,2667.64
+S234,2025-02-25,New Balance,Sports,Black,Saudi Arabia,Retail Store,138.35,12,1660.2
+S235,2025-10-21,Reebok,Sneakers,Grey,India,Mall,72.95,8,583.6
+S236,2025-11-26,Nike,Sneakers,Green,Saudi Arabia,Mall,188.94,18,3400.92
+S237,2025-05-17,Adidas,Sports,Green,Saudi Arabia,Retail Store,91.77,1,91.77
+S238,2025-06-23,Nike,Casual,White,India,Mall,35.35,12,424.2
+S239,2025-07-25,Adidas,Boots,Green,USA,Online,172.0,3,516.0
+S240,2025-09-29,Reebok,Formal,Red,France,Online,68.96,7,482.72
+S241,2025-07-09,Skechers,Sports,Grey,India,Online,236.9,10,2369.0
+S242,2025-01-27,Adidas,Sneakers,Black,UAE,Online,239.86,5,1199.3
+S243,2025-05-20,Skechers,Formal,Red,India,Retail Store,231.27,15,3469.05
+S244,2025-08-01,Adidas,Sneakers,Black,France,Retail Store,111.43,9,1002.87
+S245,2025-02-26,Skechers,Boots,Grey,Germany,Mall,33.4,10,334.0
+S246,2025-12-08,Nike,Casual,Red,India,Online,234.23,10,2342.3
+S247,2025-01-04,Puma,Casual,White,Saudi Arabia,Retail Store,124.2,7,869.4
+S248,2025-05-29,Nike,Running,Red,UAE,Retail Store,242.66,11,2669.26
+S249,2025-03-31,Reebok,Sneakers,Green,UK,Mall,242.0,5,1210.0
+S250,2025-10-14,Nike,Formal,Green,USA,Retail Store,217.66,12,2611.92
+S251,2025-01-10,Nike,Sports,Grey,Germany,Mall,94.78,15,1421.7
+S252,2025-07-27,Puma,Running,Red,USA,Retail Store,114.72,14,1606.08
+S253,2025-03-29,Reebok,Boots,Blue,USA,Retail Store,217.25,20,4345.0
+S254,2025-02-24,Reebok,Sneakers,Red,India,Online,99.72,8,797.76
+S255,2025-07-22,Skechers,Sports,White,France,Online,67.29,10,672.9
+S256,2025-02-09,Skechers,Running,Grey,India,Online,152.5,17,2592.5
+S257,2025-06-28,Skechers,Boots,White,UK,Online,235.95,12,2831.4
+S258,2025-03-16,Adidas,Casual,Grey,UK,Mall,183.13,9,1648.17
+S259,2025-02-08,Skechers,Formal,Red,Saudi Arabia,Mall,155.41,6,932.46
+S260,2025-10-24,Skechers,Sneakers,Green,UAE,Mall,51.38,15,770.7
+S261,2025-06-15,Adidas,Formal,Black,Germany,Retail Store,165.3,11,1818.3
+S262,2025-11-20,Puma,Sneakers,Black,France,Mall,247.81,10,2478.1
+S263,2025-02-07,Reebok,Formal,Black,USA,Retail Store,60.82,10,608.2
+S264,2025-05-27,Skechers,Running,Grey,India,Mall,144.03,3,432.09
+S265,2025-07-16,New Balance,Sneakers,Green,USA,Retail Store,223.02,15,3345.3
+S266,2025-10-20,Puma,Sneakers,Red,India,Online,192.97,7,1350.79
+S267,2025-02-01,Nike,Sports,Green,USA,Mall,183.34,15,2750.1
+S268,2025-11-27,Nike,Casual,Green,Germany,Retail Store,184.55,6,1107.3
+S269,2025-09-26,New Balance,Casual,Blue,France,Retail Store,109.09,17,1854.53
+S270,2025-07-18,Puma,Boots,Grey,USA,Mall,94.59,14,1324.26
+S271,2025-11-28,Nike,Sports,Black,India,Mall,208.06,11,2288.66
+S272,2025-07-17,Puma,Boots,Green,India,Online,208.22,10,2082.2
+S273,2025-06-20,New Balance,Boots,White,France,Retail Store,220.76,3,662.28
+S274,2025-12-02,Adidas,Sneakers,Green,USA,Retail Store,230.91,13,3001.83
+S275,2025-10-14,Skechers,Sports,White,UAE,Mall,142.5,13,1852.5
+S276,2025-12-17,Nike,Boots,Green,Germany,Mall,140.33,17,2385.61
+S277,2025-07-05,Puma,Sports,White,UK,Retail Store,205.62,1,205.62
+S278,2025-09-06,Adidas,Casual,White,USA,Retail Store,172.99,7,1210.93
+S279,2025-02-21,New Balance,Boots,Grey,USA,Mall,184.43,17,3135.31
+S280,2025-06-22,Adidas,Sneakers,Red,UK,Online,205.07,20,4101.4
+S281,2025-04-03,Adidas,Boots,Red,USA,Retail Store,225.8,20,4516.0
+S282,2025-07-06,Reebok,Sneakers,Blue,Saudi Arabia,Mall,104.36,8,834.88
+S283,2025-08-18,New Balance,Casual,Blue,Saudi Arabia,Retail Store,112.63,8,901.04
+S284,2025-04-10,Skechers,Sneakers,Red,Germany,Retail Store,50.68,12,608.16
+S285,2025-07-15,New Balance,Formal,White,Saudi Arabia,Online,157.22,17,2672.74
+S286,2025-11-06,Puma,Running,Green,Germany,Retail Store,37.91,5,189.55
+S287,2025-10-11,Skechers,Sneakers,Black,France,Online,132.43,4,529.72
+S288,2025-03-24,Reebok,Sneakers,White,Saudi Arabia,Retail Store,149.38,9,1344.42
+S289,2025-02-16,Reebok,Sports,Black,Germany,Online,93.04,8,744.32
+S290,2025-07-22,Puma,Casual,Red,USA,Retail Store,159.98,17,2719.66
+S291,2025-04-25,Puma,Running,Green,UAE,Retail Store,36.71,1,36.71
+S292,2025-03-16,Nike,Sports,Red,UAE,Online,38.22,5,191.1
+S293,2025-12-28,Reebok,Sneakers,Black,USA,Online,210.97,16,3375.52
+S294,2025-05-12,Adidas,Sneakers,Green,India,Mall,109.24,7,764.68
+S295,2025-08-05,Puma,Casual,Blue,USA,Online,57.95,4,231.8
+S296,2025-05-03,Skechers,Sneakers,Red,USA,Online,144.89,14,2028.46
+S297,2025-09-13,New Balance,Running,Green,India,Mall,199.4,20,3988.0
+S298,2025-05-04,Puma,Formal,Black,India,Retail Store,77.48,5,387.4
+S299,2025-05-04,Reebok,Casual,Green,UAE,Online,167.04,19,3173.76
+S300,2025-09-26,Nike,Sneakers,Grey,India,Mall,48.78,12,585.36
+S301,2025-10-11,Reebok,Formal,Black,UAE,Retail Store,41.37,1,41.37
+S302,2025-07-11,Skechers,Running,Blue,Saudi Arabia,Online,146.9,9,1322.1
+S303,2025-06-26,Skechers,Boots,Green,USA,Mall,148.94,8,1191.52
+S304,2025-06-20,Nike,Sports,Grey,France,Mall,170.23,5,851.15
+S305,2025-03-31,Skechers,Formal,Green,UK,Online,189.74,15,2846.1
+S306,2025-02-02,Nike,Sports,White,USA,Online,244.69,15,3670.35
+S307,2025-01-22,Puma,Sneakers,Red,Saudi Arabia,Mall,143.59,11,1579.49
+S308,2025-08-31,Nike,Boots,White,France,Retail Store,101.05,9,909.45
+S309,2025-01-25,Puma,Running,Blue,Germany,Retail Store,204.94,11,2254.34
+S310,2025-08-14,Puma,Casual,Red,UAE,Retail Store,89.58,13,1164.54
+S311,2025-07-08,Puma,Running,Green,Germany,Online,126.57,17,2151.69
+S312,2025-08-09,Adidas,Sneakers,Blue,France,Online,47.26,20,945.2
+S313,2025-02-10,Skechers,Sports,Blue,Germany,Mall,35.58,11,391.38
+S314,2025-08-07,Skechers,Formal,Blue,Germany,Online,241.78,6,1450.68
+S315,2025-06-30,Reebok,Sports,Green,Saudi Arabia,Online,213.92,20,4278.4
+S316,2025-02-08,Puma,Sneakers,Green,UAE,Online,183.11,13,2380.43
+S317,2025-01-16,New Balance,Boots,Red,USA,Online,119.97,5,599.85
+S318,2025-02-04,Skechers,Sports,Blue,Germany,Mall,68.12,8,544.96
+S319,2025-01-17,Adidas,Boots,Red,France,Retail Store,64.42,20,1288.4
+S320,2025-08-16,New Balance,Casual,Grey,France,Retail Store,85.05,3,255.15
+S321,2025-06-10,Adidas,Running,Black,UAE,Online,150.83,9,1357.47
+S322,2025-09-13,Reebok,Sneakers,Black,France,Retail Store,187.21,17,3182.57
+S323,2025-12-27,Adidas,Sneakers,Blue,UAE,Retail Store,175.24,15,2628.6
+S324,2025-04-13,Adidas,Running,Red,UK,Mall,91.59,4,366.36
+S325,2025-08-16,Skechers,Sports,Green,France,Mall,240.07,3,720.21
+S326,2025-02-03,New Balance,Sports,Blue,Saudi Arabia,Online,192.34,18,3462.12
+S327,2025-12-31,Puma,Sneakers,White,USA,Online,151.96,6,911.76
+S328,2025-03-13,Reebok,Running,Blue,India,Mall,164.58,8,1316.64
+S329,2025-07-08,New Balance,Casual,Grey,USA,Online,122.31,15,1834.65
+S330,2025-06-08,Skechers,Boots,Red,India,Retail Store,84.5,13,1098.5
+S331,2025-07-29,Nike,Casual,Blue,UAE,Online,108.31,19,2057.89
+S332,2025-08-19,Skechers,Sneakers,Blue,UK,Mall,196.73,15,2950.95
+S333,2025-11-24,Adidas,Casual,Red,India,Online,33.17,19,630.23
+S334,2025-03-05,Adidas,Sports,White,UK,Retail Store,55.54,17,944.18
+S335,2025-12-30,Puma,Sneakers,Blue,Saudi Arabia,Online,40.12,8,320.96
+S336,2025-05-09,Skechers,Sneakers,Blue,UK,Mall,38.96,7,272.72
+S337,2025-06-05,New Balance,Running,Grey,UAE,Online,218.2,20,4364.0
+S338,2025-10-31,Adidas,Casual,Green,India,Mall,184.8,19,3511.2
+S339,2025-11-06,New Balance,Running,Black,USA,Online,134.32,11,1477.52
+S340,2025-11-25,Puma,Boots,White,Saudi Arabia,Mall,51.52,19,978.88
+S341,2025-08-02,Skechers,Running,Red,UAE,Mall,138.16,20,2763.2
+S342,2025-05-29,Reebok,Casual,Green,Germany,Retail Store,134.16,10,1341.6
+S343,2025-08-21,Skechers,Running,White,Germany,Retail Store,68.1,3,204.3
+S344,2025-09-05,Adidas,Sports,Grey,UK,Retail Store,125.45,15,1881.75
+S345,2025-06-13,Reebok,Casual,Blue,India,Mall,117.67,12,1412.04
+S346,2025-02-24,Adidas,Formal,Black,France,Retail Store,165.49,11,1820.39
+S347,2025-05-07,Nike,Running,Blue,Germany,Mall,169.72,5,848.6
+S348,2025-08-03,Adidas,Sports,Grey,UAE,Retail Store,39.97,8,319.76
+S349,2025-04-08,Reebok,Sneakers,Red,Germany,Retail Store,112.41,6,674.46
+S350,2025-09-12,Nike,Formal,Grey,Germany,Online,167.69,1,167.69
+S351,2025-04-21,Puma,Running,Black,France,Retail Store,140.69,19,2673.11
+S352,2025-11-02,Puma,Sneakers,Black,Saudi Arabia,Online,218.43,16,3494.88
+S353,2025-08-09,Puma,Boots,Blue,Saudi Arabia,Retail Store,174.91,5,874.55
+S354,2025-07-07,Reebok,Running,Grey,India,Online,65.85,2,131.7
+S355,2025-07-05,Puma,Running,Red,India,Retail Store,45.53,18,819.54
+S356,2025-10-09,New Balance,Boots,Grey,USA,Online,171.33,9,1541.97
+S357,2025-02-19,Puma,Sports,Grey,France,Online,35.83,13,465.79
+S358,2025-04-12,New Balance,Formal,Grey,USA,Online,158.87,20,3177.4
+S359,2025-01-20,Skechers,Sports,Red,India,Retail Store,236.85,5,1184.25
+S360,2025-03-18,New Balance,Casual,Blue,India,Retail Store,156.6,20,3132.0
+S361,2025-03-25,New Balance,Boots,Blue,India,Retail Store,115.4,13,1500.2
+S362,2025-09-17,New Balance,Formal,Green,India,Retail Store,171.52,17,2915.84
+S363,2025-09-01,Puma,Sports,Green,USA,Retail Store,130.82,1,130.82
+S364,2025-10-26,Skechers,Boots,Green,USA,Mall,150.04,10,1500.4
+S365,2025-08-31,Skechers,Sneakers,Grey,UK,Mall,237.12,9,2134.08
+S366,2025-01-27,Reebok,Casual,Grey,UAE,Mall,114.94,19,2183.86
+S367,2025-11-14,Adidas,Boots,White,USA,Mall,241.46,13,3138.98
+S368,2025-12-25,Adidas,Running,Red,France,Retail Store,229.18,4,916.72
+S369,2025-03-19,Skechers,Casual,Red,India,Mall,73.07,14,1022.98
+S370,2025-08-30,Skechers,Casual,Grey,UK,Mall,45.26,2,90.52
+S371,2025-06-16,New Balance,Formal,Blue,UK,Retail Store,52.17,16,834.72
+S372,2025-09-30,New Balance,Sports,Green,Saudi Arabia,Mall,34.01,11,374.11
+S373,2025-12-15,New Balance,Formal,White,UK,Retail Store,50.78,9,457.02
+S374,2025-10-13,Adidas,Sports,Blue,UAE,Online,180.26,10,1802.6
+S375,2025-12-20,Puma,Formal,Blue,India,Mall,45.66,16,730.56
+S376,2025-05-21,Nike,Sneakers,Green,India,Retail Store,100.17,10,1001.7
+S377,2025-07-22,Adidas,Sports,Black,France,Mall,215.87,12,2590.44
+S378,2025-02-10,Reebok,Boots,Blue,UAE,Retail Store,35.12,12,421.44
+S379,2025-04-20,New Balance,Sports,Grey,UAE,Retail Store,209.18,7,1464.26
+S380,2025-03-12,New Balance,Boots,Grey,UK,Online,92.01,4,368.04
+S381,2025-01-26,Adidas,Boots,White,USA,Online,56.0,17,952.0
+S382,2025-07-31,Skechers,Formal,Black,UAE,Online,183.28,11,2016.08
+S383,2025-01-03,Adidas,Formal,Green,Germany,Retail Store,168.37,18,3030.66
+S384,2025-11-30,Puma,Sports,Blue,UAE,Online,223.04,7,1561.28
+S385,2025-02-15,Adidas,Sneakers,Green,UAE,Online,191.72,19,3642.68
+S386,2025-03-31,Adidas,Running,Red,Saudi Arabia,Retail Store,206.77,14,2894.78
+S387,2025-04-06,Nike,Running,Blue,India,Mall,92.05,10,920.5
+S388,2025-02-24,Puma,Formal,Green,India,Mall,69.04,11,759.44
+S389,2025-09-10,New Balance,Formal,Blue,UK,Online,195.14,5,975.7
+S390,2025-06-19,Skechers,Formal,Green,France,Mall,207.5,6,1245.0
+S391,2025-04-06,Skechers,Sports,Blue,India,Mall,247.91,1,247.91
+S392,2025-04-09,New Balance,Boots,Red,Saudi Arabia,Retail Store,120.78,6,724.68
+S393,2025-09-21,Nike,Formal,Green,USA,Online,111.84,11,1230.24
+S394,2025-03-13,Puma,Casual,Black,France,Retail Store,200.81,16,3212.96
+S395,2025-05-01,Puma,Sports,Blue,India,Mall,104.98,15,1574.7
+S396,2025-10-21,Puma,Boots,Blue,UAE,Online,234.77,1,234.77
+S397,2025-02-01,Reebok,Sports,White,Germany,Mall,218.85,4,875.4
+S398,2025-09-15,Skechers,Running,Green,France,Retail Store,124.38,10,1243.8
+S399,2025-11-11,Adidas,Casual,Red,UK,Retail Store,195.19,8,1561.52
+S400,2025-11-07,Reebok,Boots,Grey,Germany,Mall,196.0,12,2352.0
+S401,2025-12-07,Adidas,Boots,Grey,Saudi Arabia,Online,52.69,7,368.83
+S402,2025-09-27,New Balance,Boots,Blue,USA,Mall,228.56,15,3428.4
+S403,2025-02-27,New Balance,Sneakers,White,India,Mall,141.16,2,282.32
+S404,2025-03-18,Puma,Sneakers,Red,USA,Mall,211.82,6,1270.92
+S405,2025-04-16,Reebok,Running,Grey,Germany,Online,100.41,19,1907.79
+S406,2025-08-21,New Balance,Formal,Red,India,Online,227.02,5,1135.1
+S407,2025-10-14,Skechers,Sports,Green,USA,Retail Store,115.62,15,1734.3
+S408,2025-05-11,Skechers,Casual,Grey,USA,Online,32.38,1,32.38
+S409,2025-08-05,Skechers,Running,Grey,USA,Online,229.18,12,2750.16
+S410,2025-08-30,Puma,Formal,White,Saudi Arabia,Online,50.08,2,100.16
+S411,2025-11-25,Puma,Formal,Red,Saudi Arabia,Retail Store,100.25,14,1403.5
+S412,2025-07-12,Skechers,Boots,Grey,UK,Mall,239.01,3,717.03
+S413,2025-06-28,Adidas,Sneakers,Red,India,Online,239.13,4,956.52
+S414,2025-04-25,Nike,Sports,Red,UAE,Mall,156.16,1,156.16
+S415,2025-10-06,New Balance,Formal,White,UK,Retail Store,169.0,14,2366.0
+S416,2025-06-27,Puma,Casual,Green,Saudi Arabia,Online,128.66,5,643.3
+S417,2025-01-17,New Balance,Running,White,UK,Online,94.51,14,1323.14
+S418,2025-02-21,Nike,Formal,Grey,UAE,Mall,102.31,20,2046.2
+S419,2025-01-25,Skechers,Running,Red,Germany,Online,177.95,8,1423.6
+S420,2025-10-04,Nike,Casual,Grey,France,Online,195.52,7,1368.64
+S421,2025-10-22,New Balance,Sneakers,Green,Saudi Arabia,Retail Store,204.15,11,2245.65
+S422,2025-05-02,Adidas,Boots,Grey,UK,Retail Store,203.72,10,2037.2
+S423,2025-06-03,Nike,Sneakers,Grey,UAE,Online,50.07,9,450.63
+S424,2025-11-17,New Balance,Formal,Black,France,Mall,138.77,14,1942.78
+S425,2025-12-10,New Balance,Sports,Green,Germany,Retail Store,42.66,13,554.58
+S426,2025-03-18,Reebok,Casual,Grey,Germany,Online,150.9,10,1509.0
+S427,2025-04-26,Skechers,Casual,Red,USA,Mall,127.14,10,1271.4
+S428,2025-07-31,New Balance,Sneakers,White,Germany,Online,225.29,14,3154.06
+S429,2025-05-11,Puma,Boots,Black,Germany,Retail Store,107.2,7,750.4
+S430,2025-02-17,Skechers,Casual,Black,France,Retail Store,55.75,18,1003.5
+S431,2025-12-11,New Balance,Running,Black,UK,Mall,61.46,20,1229.2
+S432,2025-12-10,Adidas,Formal,White,Saudi Arabia,Retail Store,197.53,18,3555.54
+S433,2025-06-05,Adidas,Casual,Green,USA,Mall,166.01,1,166.01
+S434,2025-09-03,Skechers,Sneakers,Green,UK,Retail Store,52.25,8,418.0
+S435,2025-05-03,Puma,Sports,Red,Germany,Mall,48.5,18,873.0
+S436,2025-11-29,Puma,Sports,Blue,India,Retail Store,184.21,12,2210.52
+S437,2025-08-27,Skechers,Formal,Blue,UK,Retail Store,46.01,4,184.04
+S438,2025-06-10,Nike,Sneakers,White,UAE,Online,210.81,14,2951.34
+S439,2025-01-09,New Balance,Sneakers,Grey,UAE,Retail Store,185.37,9,1668.33
+S440,2025-06-01,Adidas,Sports,White,Germany,Mall,47.9,5,239.5
+S441,2025-05-06,New Balance,Boots,Green,France,Retail Store,48.66,16,778.56
+S442,2025-09-08,Reebok,Casual,Green,Saudi Arabia,Retail Store,247.06,16,3952.96
+S443,2025-03-28,Skechers,Sneakers,Red,UK,Mall,112.34,5,561.7
+S444,2025-11-25,New Balance,Running,Black,Saudi Arabia,Mall,111.54,2,223.08
+S445,2025-01-25,Reebok,Casual,Green,UK,Online,208.82,1,208.82
+S446,2025-12-29,Nike,Casual,Grey,Germany,Retail Store,238.39,5,1191.95
+S447,2025-01-31,Skechers,Boots,Grey,Germany,Mall,246.92,20,4938.4
+S448,2025-09-07,Nike,Sneakers,Grey,Germany,Online,195.74,1,195.74
+S449,2025-01-09,Skechers,Sports,Grey,France,Online,112.78,17,1917.26
+S450,2025-09-15,Adidas,Running,Black,India,Online,48.37,14,677.18
+S451,2025-05-04,New Balance,Sneakers,Blue,Saudi Arabia,Retail Store,200.97,7,1406.79
+S452,2025-05-17,Nike,Sports,Red,Germany,Mall,152.85,13,1987.05
+S453,2025-05-05,Puma,Boots,Black,UAE,Mall,123.33,8,986.64
+S454,2025-01-17,Reebok,Formal,Red,India,Retail Store,229.4,3,688.2
+S455,2025-01-29,Skechers,Casual,Black,Germany,Retail Store,54.46,1,54.46
+S456,2025-11-27,New Balance,Running,Grey,USA,Online,138.38,11,1522.18
+S457,2025-04-19,Reebok,Sports,Black,USA,Mall,32.5,19,617.5
+S458,2025-05-24,New Balance,Boots,Black,UK,Retail Store,133.11,18,2395.98
+S459,2025-01-09,New Balance,Casual,Green,Saudi Arabia,Retail Store,42.39,7,296.73
+S460,2025-02-09,Adidas,Sneakers,White,India,Retail Store,56.14,10,561.4
+S461,2025-12-13,Puma,Formal,Green,UK,Mall,55.86,18,1005.48
+S462,2025-02-10,Skechers,Sports,Black,USA,Retail Store,172.83,17,2938.11
+S463,2025-04-29,Puma,Sneakers,Grey,India,Retail Store,194.13,3,582.39
+S464,2025-06-17,Skechers,Sports,Red,Germany,Online,158.34,1,158.34
+S465,2025-07-02,Reebok,Formal,White,UAE,Mall,241.68,18,4350.24
+S466,2025-12-05,Nike,Sneakers,Blue,Saudi Arabia,Online,112.47,13,1462.11
+S467,2025-02-07,Puma,Casual,Red,UAE,Mall,92.86,3,278.58
+S468,2025-03-20,Puma,Sports,Black,USA,Online,221.09,13,2874.17
+S469,2025-06-07,Puma,Sports,Black,UK,Online,79.19,15,1187.85
+S470,2025-04-06,Reebok,Sneakers,Grey,India,Retail Store,241.91,14,3386.74
+S471,2025-02-22,Nike,Sports,Grey,USA,Mall,32.67,1,32.67
+S472,2025-11-03,Reebok,Running,Blue,Germany,Retail Store,243.37,11,2677.07
+S473,2025-02-13,Adidas,Sneakers,Grey,UK,Mall,39.5,18,711.0
+S474,2025-07-14,Adidas,Sports,Blue,France,Retail Store,226.05,6,1356.3
+S475,2025-03-16,Adidas,Formal,Blue,Germany,Retail Store,146.09,3,438.27
+S476,2025-09-05,Puma,Sports,White,UAE,Mall,248.45,3,745.35
+S477,2025-09-11,New Balance,Casual,Red,USA,Online,46.24,20,924.8
+S478,2025-06-05,Reebok,Sports,Grey,Germany,Retail Store,151.85,1,151.85
+S479,2025-08-14,Reebok,Boots,Grey,UK,Retail Store,243.25,11,2675.75
+S480,2025-06-14,Skechers,Casual,Red,France,Online,145.08,20,2901.6
+S481,2025-07-23,Puma,Boots,Green,UAE,Retail Store,168.47,11,1853.17
+S482,2025-10-22,Puma,Formal,Blue,Saudi Arabia,Retail Store,183.06,8,1464.48
+S483,2025-07-06,New Balance,Casual,Grey,India,Online,130.0,4,520.0
+S484,2025-12-16,Nike,Boots,Red,UAE,Online,168.06,18,3025.08
+S485,2025-08-13,Skechers,Running,Red,UAE,Retail Store,158.55,10,1585.5
+S486,2025-03-13,Adidas,Sports,Green,UK,Mall,228.25,10,2282.5
+S487,2025-08-05,Nike,Formal,Grey,Germany,Mall,40.0,13,520.0
+S488,2025-07-25,New Balance,Boots,Red,India,Online,91.81,18,1652.58
+S489,2025-07-04,New Balance,Boots,Black,USA,Online,239.09,18,4303.62
+S490,2025-12-03,Adidas,Boots,Grey,USA,Mall,225.86,12,2710.32
+S491,2025-11-27,Puma,Formal,Black,USA,Online,130.24,13,1693.12
+S492,2025-05-13,New Balance,Boots,Grey,India,Mall,166.43,8,1331.44
+S493,2025-12-19,Adidas,Formal,Blue,Germany,Retail Store,91.02,19,1729.38
+S494,2025-12-14,Skechers,Sneakers,White,France,Online,71.39,19,1356.41
+S495,2025-09-05,Puma,Formal,Black,USA,Mall,132.01,4,528.04
+S496,2025-03-14,Puma,Sports,Red,Saudi Arabia,Online,107.74,12,1292.88
+S497,2025-09-24,Puma,Formal,Black,Germany,Mall,158.4,16,2534.4
+S498,2025-12-23,Puma,Running,Blue,USA,Mall,47.1,15,706.5
+S499,2025-02-28,Puma,Boots,Black,UAE,Online,244.37,1,244.37
+S500,2025-05-05,Adidas,Sneakers,White,France,Mall,246.97,17,4198.49
+S501,2025-08-07,Adidas,Formal,Green,UK,Online,183.6,15,2754.0
+S502,2025-11-24,Reebok,Running,Green,India,Online,147.94,14,2071.16
+S503,2025-08-19,Reebok,Formal,Black,UAE,Online,98.1,19,1863.9
+S504,2025-04-16,Skechers,Running,Grey,USA,Mall,209.03,9,1881.27
+S505,2025-04-06,Puma,Casual,Red,USA,Retail Store,180.64,12,2167.68
+S506,2025-12-10,New Balance,Boots,Blue,India,Retail Store,65.78,16,1052.48
+S507,2025-11-09,New Balance,Running,Blue,France,Retail Store,230.4,13,2995.2
+S508,2025-11-13,Skechers,Boots,Blue,India,Mall,210.96,6,1265.76
+S509,2025-02-13,Puma,Running,White,France,Online,238.96,5,1194.8
+S510,2025-04-04,Skechers,Casual,Grey,Germany,Retail Store,189.66,12,2275.92
+S511,2025-11-02,New Balance,Formal,Red,UK,Retail Store,164.95,5,824.75
+S512,2025-11-22,Skechers,Boots,White,India,Online,122.01,18,2196.18
+S513,2025-09-08,Adidas,Casual,Blue,Saudi Arabia,Retail Store,235.2,10,2352.0
+S514,2025-11-14,Puma,Running,Red,UK,Online,220.53,2,441.06
+S515,2025-07-16,New Balance,Boots,Red,Germany,Mall,39.95,18,719.1
+S516,2025-09-09,Skechers,Formal,Red,UK,Online,35.8,14,501.2
+S517,2025-10-17,Adidas,Sports,Black,France,Online,112.82,1,112.82
+S518,2025-10-03,Adidas,Formal,Grey,UAE,Retail Store,208.32,10,2083.2
+S519,2025-10-09,Nike,Sneakers,Black,France,Mall,247.2,17,4202.4
+S520,2025-07-07,Nike,Boots,Red,India,Online,63.09,18,1135.62
+S521,2025-08-06,Skechers,Boots,White,France,Online,160.71,4,642.84
+S522,2025-08-19,Puma,Running,Red,Saudi Arabia,Online,113.8,9,1024.2
+S523,2025-05-02,Skechers,Sneakers,Green,France,Mall,243.38,7,1703.66
+S524,2025-11-09,Adidas,Sneakers,White,Saudi Arabia,Online,215.27,14,3013.78
+S525,2025-04-16,New Balance,Sports,Grey,France,Mall,214.43,2,428.86
+S526,2025-10-03,Puma,Boots,Blue,France,Mall,133.11,6,798.66
+S527,2025-05-17,Skechers,Running,White,Saudi Arabia,Retail Store,121.26,17,2061.42
+S528,2025-01-31,Skechers,Casual,Green,Saudi Arabia,Online,90.15,9,811.35
+S529,2025-05-08,Skechers,Sports,White,Saudi Arabia,Mall,42.4,5,212.0
+S530,2025-07-21,Adidas,Sneakers,Green,France,Mall,220.24,16,3523.84
+S531,2025-08-01,Reebok,Running,Green,Saudi Arabia,Online,208.84,13,2714.92
+S532,2025-07-26,Skechers,Sports,Green,France,Retail Store,249.94,17,4248.98
+S533,2025-09-07,New Balance,Running,Green,USA,Mall,249.26,11,2741.86
+S534,2025-08-23,Nike,Sneakers,Red,UK,Retail Store,152.19,12,1826.28
+S535,2025-04-19,Puma,Sports,Blue,France,Mall,199.18,16,3186.88
+S536,2025-10-23,New Balance,Formal,Blue,UAE,Online,237.85,5,1189.25
+S537,2025-01-24,Skechers,Formal,Black,USA,Online,216.92,4,867.68
+S538,2025-08-14,Nike,Formal,White,UAE,Online,84.42,15,1266.3
+S539,2025-11-29,Adidas,Sports,Black,UAE,Retail Store,129.12,10,1291.2
+S540,2025-05-09,Puma,Boots,Green,UK,Online,58.42,3,175.26
+S541,2025-07-22,Skechers,Boots,White,Germany,Mall,239.89,10,2398.9
+S542,2025-02-16,Nike,Casual,Red,USA,Online,163.36,4,653.44
+S543,2025-10-31,New Balance,Boots,Red,USA,Online,80.3,8,642.4
+S544,2025-12-23,Nike,Formal,Green,UK,Retail Store,177.77,11,1955.47
+S545,2025-02-06,Reebok,Running,Green,Saudi Arabia,Online,165.99,8,1327.92
+S546,2025-02-22,Puma,Sports,White,Germany,Online,108.8,11,1196.8
+S547,2025-11-25,Nike,Sneakers,Grey,USA,Mall,54.98,5,274.9
+S548,2025-11-29,Reebok,Sports,Green,UK,Mall,177.75,6,1066.5
+S549,2025-03-19,New Balance,Boots,Red,Saudi Arabia,Online,144.47,14,2022.58
+S550,2025-02-14,Adidas,Running,Grey,UAE,Retail Store,199.91,4,799.64
+S551,2025-06-29,Puma,Casual,White,France,Mall,144.44,14,2022.16
+S552,2025-02-13,New Balance,Sneakers,Grey,UAE,Mall,217.48,8,1739.84
+S553,2025-05-26,Skechers,Sports,White,India,Mall,151.42,1,151.42
+S554,2025-09-18,Skechers,Formal,Blue,UAE,Online,153.41,7,1073.87
+S555,2025-05-03,Reebok,Running,White,Germany,Mall,222.86,16,3565.76
+S556,2025-11-01,New Balance,Running,Blue,France,Online,118.77,3,356.31
+S557,2025-07-18,Reebok,Sports,Grey,UAE,Online,59.48,19,1130.12
+S558,2025-08-30,Nike,Sneakers,Black,USA,Retail Store,36.33,3,108.99
+S559,2025-04-21,Nike,Formal,Grey,France,Mall,196.13,2,392.26
+S560,2025-12-31,Reebok,Formal,Green,Germany,Online,166.47,17,2829.99
+S561,2025-11-24,New Balance,Sneakers,White,France,Online,184.9,18,3328.2
+S562,2025-06-08,New Balance,Casual,White,India,Retail Store,76.85,3,230.55
+S563,2025-07-20,Skechers,Boots,Green,UAE,Online,60.0,19,1140.0
+S564,2025-06-08,Skechers,Casual,Black,UK,Online,33.2,14,464.8
+S565,2025-08-11,Reebok,Sneakers,Grey,USA,Retail Store,107.13,4,428.52
+S566,2025-12-08,Nike,Running,Green,UK,Mall,159.78,6,958.68
+S567,2025-01-06,Reebok,Sports,Grey,India,Mall,116.29,6,697.74
+S568,2025-05-13,Puma,Casual,Green,Saudi Arabia,Retail Store,126.24,6,757.44
+S569,2025-03-02,Puma,Formal,Blue,India,Online,228.91,1,228.91
+S570,2025-05-15,Skechers,Running,Red,Germany,Mall,106.62,19,2025.78
+S571,2025-07-04,Reebok,Sneakers,White,France,Online,143.08,2,286.16
+S572,2025-05-11,New Balance,Boots,Green,USA,Online,202.4,4,809.6
+S573,2025-09-18,Nike,Running,White,USA,Retail Store,117.24,1,117.24
+S574,2025-07-06,Adidas,Casual,Black,India,Mall,166.86,13,2169.18
+S575,2025-12-02,Adidas,Sports,White,Germany,Mall,219.72,14,3076.08
+S576,2025-06-13,Nike,Sneakers,Blue,USA,Mall,238.89,9,2150.01
+S577,2025-12-11,Adidas,Casual,Grey,USA,Retail Store,62.36,2,124.72
+S578,2025-02-05,Puma,Sports,Blue,USA,Mall,233.85,15,3507.75
+S579,2025-08-22,Puma,Casual,Blue,India,Retail Store,138.27,1,138.27
+S580,2025-11-15,Reebok,Sports,Grey,Germany,Online,86.81,8,694.48
+S581,2025-10-07,Adidas,Running,Red,USA,Online,131.01,8,1048.08
+S582,2025-10-05,Skechers,Boots,Black,France,Online,245.61,12,2947.32
+S583,2025-12-03,Skechers,Boots,Blue,USA,Online,138.38,13,1798.94
+S584,2025-09-29,Reebok,Formal,Black,UK,Mall,102.33,8,818.64
+S585,2025-05-24,Nike,Casual,Grey,Germany,Mall,169.35,3,508.05
+S586,2025-07-10,Skechers,Running,Grey,USA,Mall,82.83,15,1242.45
+S587,2025-03-10,Nike,Sneakers,Grey,USA,Retail Store,46.69,13,606.97
+S588,2025-12-06,Adidas,Sports,Blue,Saudi Arabia,Retail Store,58.35,5,291.75
+S589,2025-07-21,Puma,Formal,Blue,UK,Online,58.17,11,639.87
+S590,2025-04-14,New Balance,Running,White,USA,Online,63.42,5,317.1
+S591,2025-08-19,Puma,Formal,Black,India,Retail Store,60.54,15,908.1
+S592,2025-04-17,Puma,Formal,Blue,Saudi Arabia,Online,170.99,15,2564.85
+S593,2025-02-16,Skechers,Sports,Green,UAE,Mall,70.01,6,420.06
+S594,2025-01-21,Puma,Casual,Black,UAE,Online,106.05,7,742.35
+S595,2025-07-02,New Balance,Running,Green,France,Retail Store,227.29,13,2954.77
+S596,2025-03-31,Reebok,Formal,Grey,UAE,Mall,134.27,1,134.27
+S597,2025-05-08,Reebok,Running,White,USA,Online,176.86,4,707.44
+S598,2025-02-01,Adidas,Casual,Red,France,Mall,67.91,8,543.28
+S599,2025-11-19,New Balance,Sneakers,Blue,Saudi Arabia,Online,72.3,3,216.9
+S600,2025-01-12,Adidas,Boots,Red,Saudi Arabia,Online,38.99,3,116.97
+S601,2025-02-17,Nike,Running,Red,USA,Online,67.17,11,738.87
+S602,2025-10-21,Skechers,Formal,Red,USA,Retail Store,91.29,14,1278.06
+S603,2025-12-16,Adidas,Sports,White,UK,Retail Store,68.94,14,965.16
+S604,2025-05-24,Adidas,Running,Grey,India,Mall,49.51,15,742.65
+S605,2025-05-06,Reebok,Formal,Grey,Germany,Online,56.54,10,565.4
+S606,2025-02-14,Reebok,Casual,Red,UK,Mall,131.37,9,1182.33
+S607,2025-09-27,Skechers,Sneakers,Black,Germany,Mall,75.39,8,603.12
+S608,2025-07-03,New Balance,Formal,Blue,India,Mall,110.14,16,1762.24
+S609,2025-06-14,Puma,Casual,Black,France,Mall,140.75,13,1829.75
+S610,2025-04-23,Puma,Running,Red,India,Retail Store,181.89,1,181.89
+S611,2025-10-27,Adidas,Running,White,UAE,Online,38.65,8,309.2
+S612,2025-05-17,Skechers,Running,White,India,Retail Store,205.87,18,3705.66
+S613,2025-07-01,Adidas,Casual,Grey,France,Mall,168.14,6,1008.84
+S614,2025-12-24,New Balance,Running,Green,UAE,Retail Store,47.99,12,575.88
+S615,2025-10-18,Adidas,Sneakers,White,Saudi Arabia,Retail Store,222.19,19,4221.61
+S616,2025-10-05,Adidas,Formal,Black,USA,Online,232.59,10,2325.9
+S617,2025-04-30,Adidas,Running,Grey,Germany,Online,43.44,20,868.8
+S618,2025-06-19,Adidas,Casual,Blue,UAE,Online,90.91,20,1818.2
+S619,2025-06-15,Nike,Casual,Grey,UAE,Online,207.36,2,414.72
+S620,2025-02-26,Puma,Running,Blue,UAE,Mall,194.62,17,3308.54
+S621,2025-07-22,Nike,Sports,Blue,France,Online,70.59,19,1341.21
+S622,2025-03-22,Skechers,Formal,Green,France,Online,76.06,14,1064.84
+S623,2025-12-29,Skechers,Sneakers,Blue,UK,Mall,111.5,18,2007.0
+S624,2025-10-29,Reebok,Sports,Green,UAE,Retail Store,136.6,6,819.6
+S625,2025-03-07,Skechers,Running,Green,India,Retail Store,166.02,6,996.12
+S626,2025-10-18,Adidas,Sneakers,Blue,Saudi Arabia,Mall,111.16,2,222.32
+S627,2025-04-24,Nike,Formal,White,France,Mall,131.76,19,2503.44
+S628,2025-02-09,Puma,Sports,White,UAE,Online,194.44,8,1555.52
+S629,2025-12-29,Reebok,Running,Blue,UK,Online,38.07,11,418.77
+S630,2025-12-21,Puma,Sports,Black,UAE,Online,85.54,3,256.62
+S631,2025-01-25,Reebok,Boots,Red,UK,Retail Store,186.94,13,2430.22
+S632,2025-09-10,Puma,Sneakers,Red,USA,Retail Store,226.95,13,2950.35
+S633,2025-10-23,Adidas,Formal,Black,Saudi Arabia,Online,142.57,8,1140.56
+S634,2025-05-31,Puma,Sports,Black,USA,Retail Store,147.06,1,147.06
+S635,2025-03-29,Adidas,Boots,Black,India,Online,53.58,13,696.54
+S636,2025-06-23,New Balance,Formal,Green,USA,Retail Store,128.43,20,2568.6
+S637,2025-12-01,New Balance,Formal,White,USA,Online,147.18,6,883.08
+S638,2025-06-19,Adidas,Formal,Green,India,Mall,83.34,7,583.38
+S639,2025-10-04,Skechers,Sports,Blue,UK,Online,89.23,9,803.07
+S640,2025-01-26,New Balance,Sneakers,Red,UK,Online,113.0,13,1469.0
+S641,2025-07-04,Reebok,Running,Blue,Saudi Arabia,Mall,34.42,1,34.42
+S642,2025-11-17,Reebok,Casual,Black,USA,Online,100.86,20,2017.2
+S643,2025-03-29,Nike,Formal,Black,France,Retail Store,76.52,10,765.2
+S644,2025-08-30,Skechers,Sports,Black,UAE,Mall,102.05,16,1632.8
+S645,2025-07-18,Puma,Formal,Blue,UK,Retail Store,56.35,6,338.1
+S646,2025-01-23,Reebok,Formal,Blue,UK,Retail Store,225.92,9,2033.28
+S647,2025-10-16,Adidas,Boots,Green,USA,Online,160.59,2,321.18
+S648,2025-12-09,New Balance,Formal,Grey,UK,Mall,179.4,12,2152.8
+S649,2025-02-01,New Balance,Formal,Grey,UAE,Retail Store,203.62,13,2647.06
+S650,2025-10-21,Reebok,Sports,Black,Germany,Mall,139.66,8,1117.28
+S651,2025-01-18,New Balance,Sneakers,Grey,UAE,Mall,49.12,17,835.04
+S652,2025-03-17,Reebok,Casual,White,UK,Online,148.16,4,592.64
+S653,2025-03-06,Reebok,Running,Green,Germany,Online,159.11,2,318.22
+S654,2025-11-18,New Balance,Sports,Blue,UAE,Online,194.0,5,970.0
+S655,2025-02-14,New Balance,Formal,Grey,France,Retail Store,124.97,13,1624.61
+S656,2025-09-24,Nike,Boots,Grey,India,Mall,58.07,15,871.05
+S657,2025-08-03,Reebok,Casual,White,India,Mall,92.43,4,369.72
+S658,2025-10-26,Nike,Sneakers,Black,Saudi Arabia,Retail Store,109.88,4,439.52
+S659,2025-10-02,Reebok,Sports,Red,UAE,Retail Store,172.1,12,2065.2
+S660,2025-10-20,Reebok,Running,White,France,Retail Store,155.57,20,3111.4
+S661,2025-03-15,New Balance,Boots,Green,Germany,Online,108.34,20,2166.8
+S662,2025-07-22,Skechers,Casual,Black,UAE,Retail Store,247.03,11,2717.33
+S663,2025-05-18,Nike,Sports,Blue,France,Retail Store,163.27,12,1959.24
+S664,2025-09-09,Adidas,Casual,Blue,UAE,Retail Store,82.19,4,328.76
+S665,2025-06-14,Skechers,Formal,Grey,UAE,Online,52.39,9,471.51
+S666,2025-04-07,Adidas,Formal,Green,Germany,Mall,63.63,15,954.45
+S667,2025-07-11,New Balance,Casual,Black,France,Mall,84.11,2,168.22
+S668,2025-09-17,Adidas,Sneakers,Grey,USA,Online,65.35,13,849.55
+S669,2025-04-09,Nike,Casual,Black,Germany,Online,71.04,7,497.28
+S670,2025-07-04,Puma,Sports,Red,India,Retail Store,92.72,7,649.04
+S671,2025-11-22,Skechers,Running,White,France,Retail Store,68.14,4,272.56
+S672,2025-11-01,Adidas,Formal,Grey,India,Retail Store,227.29,15,3409.35
+S673,2025-06-26,Puma,Boots,Green,USA,Retail Store,47.65,6,285.9
+S674,2025-01-15,Nike,Casual,Grey,Saudi Arabia,Online,145.39,13,1890.07
+S675,2025-04-24,Skechers,Casual,Blue,UAE,Retail Store,120.29,8,962.32
+S676,2025-09-20,Skechers,Running,Red,UK,Mall,246.12,1,246.12
+S677,2025-03-30,Nike,Casual,Blue,India,Retail Store,54.65,20,1093.0
+S678,2025-12-31,Reebok,Formal,Blue,Germany,Retail Store,117.53,9,1057.77
+S679,2025-04-22,Puma,Boots,Grey,Saudi Arabia,Mall,243.28,15,3649.2
+S680,2025-07-23,Nike,Running,Grey,UAE,Retail Store,220.41,19,4187.79
+S681,2025-10-15,New Balance,Sports,Blue,UAE,Online,209.76,20,4195.2
+S682,2025-09-04,Puma,Sports,Green,France,Retail Store,86.74,3,260.22
+S683,2025-05-14,Adidas,Casual,Grey,Saudi Arabia,Online,67.6,10,676.0
+S684,2025-01-30,Reebok,Boots,Blue,UAE,Online,177.1,20,3542.0
+S685,2025-01-14,Puma,Sports,Red,Germany,Retail Store,234.46,16,3751.36
+S686,2025-01-19,Skechers,Sneakers,White,France,Mall,152.49,19,2897.31
+S687,2025-04-24,Skechers,Formal,Green,France,Mall,155.75,18,2803.5
+S688,2025-06-03,Skechers,Sneakers,White,France,Online,91.6,6,549.6
+S689,2025-08-30,Skechers,Sports,Green,Saudi Arabia,Mall,199.29,5,996.45
+S690,2025-04-04,Skechers,Running,White,France,Online,71.15,11,782.65
+S691,2025-06-07,Puma,Sports,Blue,India,Retail Store,101.21,14,1416.94
+S692,2025-08-26,Reebok,Running,Green,India,Mall,123.6,4,494.4
+S693,2025-11-14,Reebok,Casual,Grey,USA,Mall,141.67,3,425.01
+S694,2025-07-15,Puma,Formal,Black,Saudi Arabia,Online,83.33,17,1416.61
+S695,2025-03-12,Puma,Formal,Grey,Germany,Online,55.26,7,386.82
+S696,2025-06-11,Nike,Formal,Blue,UAE,Online,164.34,6,986.04
+S697,2025-06-10,Nike,Formal,Blue,UK,Online,93.5,2,187.0
+S698,2025-10-23,Reebok,Running,White,India,Retail Store,157.87,6,947.22
+S699,2025-11-21,Reebok,Formal,Red,Germany,Online,63.96,14,895.44
+S700,2025-01-20,Adidas,Boots,Blue,USA,Retail Store,135.85,18,2445.3
+S701,2025-09-29,Nike,Boots,Black,UAE,Mall,147.17,7,1030.19
+S702,2025-05-08,Skechers,Sports,Blue,UK,Online,41.4,8,331.2
+S703,2025-07-16,New Balance,Sports,White,USA,Online,104.05,17,1768.85
+S704,2025-06-02,Reebok,Boots,Grey,India,Mall,59.57,10,595.7
+S705,2025-06-22,Skechers,Casual,Blue,Germany,Retail Store,43.94,14,615.16
+S706,2025-04-07,Reebok,Running,White,UK,Mall,247.79,6,1486.74
+S707,2025-03-09,Skechers,Running,Grey,India,Online,100.92,7,706.44
+S708,2025-03-05,Skechers,Boots,Black,Germany,Mall,208.17,12,2498.04
+S709,2025-05-11,New Balance,Running,Grey,USA,Mall,86.02,18,1548.36
+S710,2025-02-25,Nike,Boots,Black,Germany,Retail Store,179.93,1,179.93
+S711,2025-07-14,New Balance,Sports,Red,UAE,Online,197.25,4,789.0
+S712,2025-04-16,Puma,Formal,Green,USA,Mall,161.04,1,161.04
+S713,2025-09-24,New Balance,Sneakers,Green,UK,Retail Store,133.75,9,1203.75
+S714,2025-02-23,Skechers,Sneakers,Black,France,Online,120.61,17,2050.37
+S715,2025-02-24,Adidas,Sneakers,White,Saudi Arabia,Retail Store,106.75,16,1708.0
+S716,2025-09-25,Puma,Boots,Red,France,Online,234.5,7,1641.5
+S717,2025-01-21,Reebok,Casual,Green,Germany,Retail Store,212.74,18,3829.32
+S718,2025-05-01,Nike,Boots,Black,USA,Mall,242.31,1,242.31
+S719,2025-12-09,Adidas,Running,Grey,USA,Mall,57.35,16,917.6
+S720,2025-02-21,Skechers,Casual,Red,France,Retail Store,190.79,9,1717.11
+S721,2025-08-26,Nike,Casual,Black,Saudi Arabia,Retail Store,236.43,2,472.86
+S722,2025-07-04,Reebok,Boots,Black,USA,Online,69.87,11,768.57
+S723,2025-01-05,Skechers,Boots,White,France,Retail Store,44.63,5,223.15
+S724,2025-08-13,Puma,Boots,Black,France,Retail Store,193.05,20,3861.0
+S725,2025-04-04,Reebok,Formal,Red,France,Retail Store,156.38,4,625.52
+S726,2025-12-20,Reebok,Boots,White,USA,Online,215.2,16,3443.2
+S727,2025-12-23,Adidas,Running,Red,India,Retail Store,60.75,2,121.5
+S728,2025-10-19,Adidas,Sneakers,Red,Saudi Arabia,Retail Store,204.96,15,3074.4
+S729,2025-11-10,Skechers,Boots,White,Germany,Retail Store,74.36,1,74.36
+S730,2025-02-27,Reebok,Running,Black,France,Mall,66.0,14,924.0
+S731,2025-06-10,Skechers,Boots,Grey,Saudi Arabia,Mall,66.14,1,66.14
+S732,2025-10-23,Adidas,Boots,Blue,India,Mall,209.21,19,3974.99
+S733,2025-12-19,Nike,Formal,Green,UAE,Online,176.34,20,3526.8
+S734,2025-09-04,Skechers,Boots,Green,Germany,Online,145.07,12,1740.84
+S735,2025-10-13,Nike,Running,Green,UK,Mall,108.94,20,2178.8
+S736,2025-08-29,Adidas,Running,Red,France,Online,222.98,16,3567.68
+S737,2025-06-19,Nike,Sneakers,White,India,Mall,116.34,9,1047.06
+S738,2025-07-13,Adidas,Running,Red,Germany,Mall,209.65,13,2725.45
+S739,2025-08-18,Reebok,Formal,Blue,USA,Retail Store,126.61,3,379.83
+S740,2025-12-01,Nike,Formal,Red,USA,Mall,112.93,1,112.93
+S741,2025-10-09,Nike,Sneakers,Grey,UAE,Retail Store,131.79,1,131.79
+S742,2025-09-18,Adidas,Boots,Green,Germany,Retail Store,96.3,18,1733.4
+S743,2025-07-06,Adidas,Formal,Blue,India,Mall,194.47,2,388.94
+S744,2025-11-04,Skechers,Boots,Blue,UAE,Retail Store,140.6,16,2249.6
+S745,2025-02-28,Skechers,Casual,Black,France,Retail Store,81.09,4,324.36
+S746,2025-11-21,New Balance,Sneakers,Blue,UAE,Online,227.91,10,2279.1
+S747,2025-01-24,Reebok,Casual,Green,UAE,Mall,114.46,6,686.76
+S748,2025-07-29,Puma,Sneakers,White,UK,Online,149.58,4,598.32
+S749,2025-07-21,Reebok,Casual,Green,France,Online,229.42,7,1605.94
+S750,2025-08-01,Skechers,Boots,Grey,USA,Retail Store,167.33,2,334.66
+S751,2025-08-23,New Balance,Casual,Red,USA,Mall,55.72,19,1058.68
+S752,2025-01-25,Reebok,Sneakers,Red,India,Online,236.76,18,4261.68
+S753,2025-12-21,Adidas,Boots,White,USA,Retail Store,168.1,19,3193.9
+S754,2025-12-03,New Balance,Sports,Grey,Germany,Retail Store,103.68,20,2073.6
+S755,2025-11-08,Puma,Formal,Blue,France,Retail Store,60.64,8,485.12
+S756,2025-03-10,Reebok,Sneakers,Green,UAE,Mall,204.69,5,1023.45
+S757,2025-06-03,Puma,Boots,Green,India,Mall,166.42,18,2995.56
+S758,2025-04-22,Adidas,Sneakers,Green,France,Mall,147.36,7,1031.52
+S759,2025-06-26,Skechers,Boots,White,India,Mall,226.66,5,1133.3
+S760,2025-12-22,Skechers,Running,Blue,India,Retail Store,203.49,11,2238.39
+S761,2025-10-26,Skechers,Boots,Red,UAE,Mall,63.37,19,1204.03
+S762,2025-10-01,Reebok,Running,Grey,USA,Online,98.58,10,985.8
+S763,2025-07-15,Nike,Boots,Black,UK,Retail Store,84.67,5,423.35
+S764,2025-03-24,Skechers,Sports,White,Saudi Arabia,Online,193.67,10,1936.7
+S765,2025-12-20,Adidas,Sneakers,Black,France,Retail Store,37.38,10,373.8
+S766,2025-02-22,Skechers,Boots,Grey,Saudi Arabia,Online,155.38,20,3107.6
+S767,2025-11-28,Reebok,Casual,Grey,Saudi Arabia,Mall,197.74,18,3559.32
+S768,2025-05-28,Reebok,Formal,Red,Saudi Arabia,Mall,222.89,2,445.78
+S769,2025-06-10,Nike,Running,Green,France,Online,105.26,18,1894.68
+S770,2025-11-14,Adidas,Boots,Green,UAE,Mall,210.68,15,3160.2
+S771,2025-07-08,New Balance,Boots,Grey,UK,Mall,54.34,19,1032.46
+S772,2025-04-10,Reebok,Casual,Green,USA,Online,216.22,10,2162.2
+S773,2025-03-30,Nike,Formal,Black,Germany,Retail Store,58.05,17,986.85
+S774,2025-10-12,Adidas,Casual,Grey,Saudi Arabia,Retail Store,117.4,9,1056.6
+S775,2025-01-03,Reebok,Boots,White,USA,Online,205.4,11,2259.4
+S776,2025-06-15,Nike,Boots,Grey,Saudi Arabia,Mall,62.98,20,1259.6
+S777,2025-06-04,New Balance,Sneakers,Blue,USA,Mall,80.44,16,1287.04
+S778,2025-06-12,Adidas,Casual,Grey,USA,Mall,188.9,17,3211.3
+S779,2025-03-23,New Balance,Sneakers,Red,USA,Retail Store,188.41,14,2637.74
+S780,2025-04-24,Skechers,Sports,Blue,France,Retail Store,171.05,7,1197.35
+S781,2025-04-22,New Balance,Formal,Grey,Saudi Arabia,Mall,182.67,20,3653.4
+S782,2025-01-05,Skechers,Sports,Red,UK,Mall,149.4,4,597.6
+S783,2025-11-11,Adidas,Running,Green,France,Retail Store,85.4,20,1708.0
+S784,2025-02-28,Puma,Sneakers,Green,France,Online,106.05,13,1378.65
+S785,2025-09-22,New Balance,Sneakers,Red,Germany,Online,69.95,12,839.4
+S786,2025-06-01,Puma,Sneakers,Black,USA,Online,229.86,7,1609.02
+S787,2025-10-03,Nike,Boots,Black,UK,Mall,158.35,18,2850.3
+S788,2025-11-19,Skechers,Formal,Black,UK,Mall,118.19,7,827.33
+S789,2025-12-26,Skechers,Running,Green,UAE,Online,131.64,14,1842.96
+S790,2025-01-13,Skechers,Sports,Black,USA,Online,238.4,15,3576.0
+S791,2025-01-28,Puma,Sneakers,Black,India,Online,63.74,6,382.44
+S792,2025-05-13,Reebok,Formal,Green,Germany,Retail Store,158.97,14,2225.58
+S793,2025-06-11,Reebok,Boots,Black,India,Online,141.3,1,141.3
+S794,2025-11-25,Nike,Boots,Grey,USA,Mall,164.52,20,3290.4
+S795,2025-02-07,New Balance,Running,Blue,Saudi Arabia,Mall,33.98,12,407.76
+S796,2025-06-04,Nike,Sports,Red,Germany,Retail Store,221.87,20,4437.4
+S797,2025-12-05,Reebok,Casual,Grey,UK,Online,235.07,1,235.07
+S798,2025-07-20,Puma,Boots,White,France,Mall,154.33,18,2777.94
+S799,2025-11-28,Nike,Sneakers,Grey,UK,Online,183.26,12,2199.12
+S800,2025-01-22,New Balance,Sneakers,Red,India,Mall,232.95,1,232.95
+S801,2025-02-13,Adidas,Boots,Green,UAE,Retail Store,185.59,10,1855.9
+S802,2025-04-19,Skechers,Sneakers,White,UK,Online,63.56,14,889.84
+S803,2025-04-24,Puma,Casual,Black,UK,Mall,156.78,20,3135.6
+S804,2025-10-18,New Balance,Formal,Green,India,Online,163.48,2,326.96
+S805,2025-05-29,Puma,Running,White,UAE,Mall,123.31,3,369.93
+S806,2025-09-07,Puma,Casual,Green,UAE,Online,192.02,11,2112.22
+S807,2025-02-21,New Balance,Running,White,France,Retail Store,235.56,10,2355.6
+S808,2025-08-19,New Balance,Boots,Blue,UAE,Mall,233.63,11,2569.93
+S809,2025-03-20,New Balance,Sports,Blue,Germany,Online,129.18,19,2454.42
+S810,2025-01-03,Adidas,Casual,Green,UAE,Mall,54.91,11,604.01
+S811,2025-08-12,Puma,Casual,Green,UAE,Retail Store,246.67,9,2220.03
+S812,2025-09-03,Reebok,Sports,Blue,Germany,Mall,214.56,15,3218.4
+S813,2025-02-25,Skechers,Sneakers,Black,Saudi Arabia,Retail Store,57.43,6,344.58
+S814,2025-03-13,Adidas,Sports,Green,UAE,Online,232.59,18,4186.62
+S815,2025-02-08,New Balance,Boots,Black,Saudi Arabia,Mall,221.38,1,221.38
+S816,2025-10-24,New Balance,Casual,Black,India,Retail Store,144.14,13,1873.82
+S817,2025-10-06,Reebok,Boots,White,France,Retail Store,160.08,18,2881.44
+S818,2025-04-25,Skechers,Sports,White,Germany,Mall,117.78,19,2237.82
+S819,2025-09-19,Reebok,Sports,Grey,USA,Mall,42.05,3,126.15
+S820,2025-05-03,Skechers,Casual,Grey,UK,Retail Store,103.74,20,2074.8
+S821,2025-03-23,New Balance,Sneakers,Green,Saudi Arabia,Online,206.63,6,1239.78
+S822,2025-09-05,Nike,Casual,Red,UK,Online,31.02,12,372.24
+S823,2025-05-16,Adidas,Running,Green,UK,Mall,103.37,12,1240.44
+S824,2025-07-04,Reebok,Formal,Black,USA,Mall,117.6,13,1528.8
+S825,2025-06-15,Skechers,Sneakers,Green,Saudi Arabia,Retail Store,148.23,4,592.92
+S826,2025-05-15,New Balance,Sneakers,White,Germany,Mall,232.37,19,4415.03
+S827,2025-07-13,New Balance,Boots,Black,India,Retail Store,106.2,12,1274.4
+S828,2025-07-12,New Balance,Formal,Blue,Saudi Arabia,Retail Store,106.33,8,850.64
+S829,2025-09-07,New Balance,Running,Grey,UK,Retail Store,192.25,16,3076.0
+S830,2025-03-26,Nike,Sneakers,Green,France,Online,129.49,8,1035.92
+S831,2025-03-18,Adidas,Sports,Grey,UAE,Online,79.41,6,476.46
+S832,2025-12-05,Reebok,Sports,Green,USA,Retail Store,129.54,8,1036.32
+S833,2025-12-12,Reebok,Casual,Grey,UK,Mall,60.99,16,975.84
+S834,2025-07-30,Adidas,Running,White,India,Mall,68.81,1,68.81
+S835,2025-03-24,Skechers,Sneakers,Black,India,Online,139.64,5,698.2
+S836,2025-01-29,Puma,Casual,Grey,Germany,Mall,122.16,6,732.96
+S837,2025-10-16,Skechers,Boots,Green,Saudi Arabia,Retail Store,231.27,1,231.27
+S838,2025-02-13,Reebok,Sneakers,Red,Saudi Arabia,Retail Store,109.73,7,768.11
+S839,2025-03-29,Reebok,Sneakers,White,Saudi Arabia,Mall,157.73,8,1261.84
+S840,2025-04-04,Skechers,Sneakers,Blue,UK,Mall,169.1,20,3382.0
+S841,2025-12-18,Reebok,Sneakers,Grey,USA,Online,32.88,11,361.68
+S842,2025-07-13,Adidas,Running,Black,UK,Mall,175.98,13,2287.74
+S843,2025-09-16,Adidas,Sneakers,Black,UK,Retail Store,69.17,14,968.38
+S844,2025-11-11,Nike,Sneakers,Grey,Saudi Arabia,Online,241.44,20,4828.8
+S845,2025-02-17,Skechers,Casual,Grey,India,Online,62.71,16,1003.36
+S846,2025-12-14,New Balance,Formal,Blue,Saudi Arabia,Online,121.22,14,1697.08
+S847,2025-12-24,Reebok,Casual,Red,Saudi Arabia,Retail Store,48.78,17,829.26
+S848,2025-06-29,Skechers,Boots,Grey,USA,Retail Store,249.31,19,4736.89
+S849,2025-03-10,Reebok,Casual,Black,France,Mall,140.48,9,1264.32
+S850,2025-10-06,Puma,Casual,Black,UAE,Mall,160.98,14,2253.72
+S851,2025-01-04,New Balance,Running,Grey,USA,Retail Store,44.76,19,850.44
+S852,2025-12-02,Skechers,Sports,Red,France,Online,194.99,7,1364.93
+S853,2025-03-21,Skechers,Sneakers,Blue,France,Mall,76.18,14,1066.52
+S854,2025-08-05,Puma,Sneakers,Blue,UAE,Retail Store,227.57,19,4323.83
+S855,2025-04-15,New Balance,Sneakers,Red,UK,Retail Store,75.13,14,1051.82
+S856,2025-10-14,Reebok,Sports,Blue,India,Retail Store,71.95,18,1295.1
+S857,2025-12-28,Skechers,Casual,Green,USA,Mall,38.04,13,494.52
+S858,2025-04-28,Skechers,Casual,Black,UK,Mall,133.85,15,2007.75
+S859,2025-07-25,New Balance,Sneakers,Green,UAE,Mall,154.27,11,1696.97
+S860,2025-01-27,Reebok,Boots,Black,Saudi Arabia,Online,44.46,6,266.76
+S861,2025-03-16,New Balance,Formal,Black,USA,Retail Store,200.62,16,3209.92
+S862,2025-04-24,Nike,Sneakers,Black,UAE,Retail Store,129.72,12,1556.64
+S863,2025-07-25,Skechers,Sneakers,Blue,UAE,Mall,145.37,20,2907.4
+S864,2025-01-30,Skechers,Formal,Red,USA,Online,126.97,6,761.82
+S865,2025-12-03,Puma,Casual,Black,Saudi Arabia,Mall,118.17,17,2008.89
+S866,2025-09-19,Skechers,Casual,Grey,UK,Mall,153.12,17,2603.04
+S867,2025-01-19,Adidas,Boots,Black,UK,Online,64.15,12,769.8
+S868,2025-05-22,Puma,Boots,Red,Germany,Mall,70.02,13,910.26
+S869,2025-04-13,Nike,Boots,Green,USA,Online,219.59,17,3733.03
+S870,2025-10-09,Skechers,Sneakers,Grey,France,Retail Store,238.15,10,2381.5
+S871,2025-05-22,New Balance,Casual,Red,Germany,Mall,112.13,8,897.04
+S872,2025-01-03,Adidas,Formal,Grey,USA,Mall,89.56,9,806.04
+S873,2025-02-07,Puma,Sports,Black,Saudi Arabia,Mall,171.68,17,2918.56
+S874,2025-05-12,New Balance,Sports,Green,Germany,Retail Store,119.92,18,2158.56
+S875,2025-10-16,Adidas,Sports,Red,UAE,Retail Store,35.58,16,569.28
+S876,2025-10-28,Reebok,Running,Blue,USA,Retail Store,64.35,1,64.35
+S877,2025-11-21,Skechers,Boots,White,Saudi Arabia,Retail Store,187.51,8,1500.08
+S878,2025-07-31,New Balance,Sneakers,Black,UAE,Retail Store,174.96,12,2099.52
+S879,2025-05-08,Nike,Formal,Green,UAE,Retail Store,35.96,10,359.6
+S880,2025-02-08,Adidas,Formal,Blue,France,Online,78.83,18,1418.94
+S881,2025-10-21,Adidas,Boots,Green,UK,Retail Store,80.84,9,727.56
+S882,2025-04-13,Skechers,Casual,Blue,UK,Online,177.82,8,1422.56
+S883,2025-04-14,New Balance,Sports,White,Saudi Arabia,Online,34.34,8,274.72
+S884,2025-03-03,Skechers,Boots,Red,India,Online,52.9,3,158.7
+S885,2025-10-05,Reebok,Sports,Grey,France,Retail Store,205.98,2,411.96
+S886,2025-10-22,Reebok,Casual,Grey,France,Retail Store,69.28,9,623.52
+S887,2025-04-24,Adidas,Running,Grey,Saudi Arabia,Retail Store,173.6,19,3298.4
+S888,2025-09-02,Nike,Sneakers,Blue,Germany,Mall,82.4,18,1483.2
+S889,2025-03-31,Nike,Boots,Grey,Germany,Retail Store,51.88,15,778.2
+S890,2025-12-19,Nike,Boots,White,Germany,Mall,83.5,1,83.5
+S891,2025-02-21,Puma,Sneakers,Blue,UK,Mall,188.9,11,2077.9
+S892,2025-05-15,Puma,Formal,Grey,France,Retail Store,218.25,8,1746.0
+S893,2025-04-05,Reebok,Casual,Red,UAE,Retail Store,212.65,16,3402.4
+S894,2025-07-06,Puma,Formal,White,India,Online,117.38,13,1525.94
+S895,2025-10-22,Nike,Boots,Blue,Saudi Arabia,Online,176.98,8,1415.84
+S896,2025-10-12,Reebok,Casual,White,Saudi Arabia,Mall,75.1,14,1051.4
+S897,2025-03-18,Nike,Casual,Red,Germany,Online,94.49,16,1511.84
+S898,2025-11-19,New Balance,Boots,Blue,Saudi Arabia,Retail Store,227.19,17,3862.23
+S899,2025-06-03,New Balance,Sneakers,Black,Germany,Online,32.86,9,295.74
+S900,2025-12-20,Nike,Casual,Blue,Germany,Mall,48.81,6,292.86
+S901,2025-02-19,Skechers,Sports,Blue,France,Retail Store,75.73,15,1135.95
+S902,2025-10-14,Puma,Sports,Black,Germany,Online,35.84,18,645.12
+S903,2025-06-29,Adidas,Sneakers,Grey,UAE,Mall,69.92,20,1398.4
+S904,2025-10-03,Puma,Sports,Blue,UAE,Mall,158.27,6,949.62
+S905,2025-09-07,Nike,Formal,Grey,France,Retail Store,122.71,15,1840.65
+S906,2025-11-20,Adidas,Boots,Blue,Germany,Mall,226.39,5,1131.95
+S907,2025-11-10,Reebok,Running,Black,UK,Retail Store,209.84,19,3986.96
+S908,2025-04-27,Puma,Boots,Blue,UAE,Retail Store,105.2,11,1157.2
+S909,2025-11-06,Puma,Formal,Blue,UAE,Mall,87.07,13,1131.91
+S910,2025-09-24,Reebok,Casual,White,Saudi Arabia,Online,113.53,15,1702.95
+S911,2025-03-06,Skechers,Sports,Green,UAE,Mall,159.86,8,1278.88
+S912,2025-02-10,Adidas,Formal,Black,USA,Online,88.97,7,622.79
+S913,2025-08-31,Nike,Running,Red,India,Online,167.31,18,3011.58
+S914,2025-02-23,New Balance,Casual,Black,UAE,Retail Store,120.07,9,1080.63
+S915,2025-06-08,Adidas,Boots,Blue,Germany,Mall,151.45,8,1211.6
+S916,2025-03-06,New Balance,Casual,Black,USA,Mall,125.95,5,629.75
+S917,2025-07-02,Reebok,Formal,Grey,France,Mall,94.78,11,1042.58
+S918,2025-08-16,Skechers,Sneakers,White,India,Mall,238.66,5,1193.3
+S919,2025-08-22,Reebok,Sneakers,Green,UAE,Mall,197.99,19,3761.81
+S920,2025-06-08,Reebok,Sneakers,White,Saudi Arabia,Online,60.82,12,729.84
+S921,2025-08-15,Puma,Formal,Blue,UK,Retail Store,221.06,10,2210.6
+S922,2025-01-06,New Balance,Casual,Blue,France,Retail Store,137.23,1,137.23
+S923,2025-10-01,Skechers,Formal,Red,France,Online,226.8,1,226.8
+S924,2025-08-09,New Balance,Casual,Black,India,Retail Store,205.97,10,2059.7
+S925,2025-04-07,New Balance,Formal,Red,UK,Online,123.55,14,1729.7
+S926,2025-11-27,Reebok,Casual,Blue,USA,Retail Store,34.94,13,454.22
+S927,2025-11-17,New Balance,Sneakers,Green,UAE,Retail Store,89.11,8,712.88
+S928,2025-05-26,Puma,Formal,White,Saudi Arabia,Online,149.16,18,2684.88
+S929,2025-04-04,Puma,Running,Green,Germany,Mall,169.37,5,846.85
+S930,2025-08-20,Skechers,Sneakers,Red,UK,Retail Store,86.74,9,780.66
+S931,2025-01-10,Nike,Sneakers,Black,UK,Online,60.66,5,303.3
+S932,2025-05-25,Adidas,Boots,Red,UAE,Online,213.68,9,1923.12
+S933,2025-04-30,Adidas,Running,Red,UK,Retail Store,246.57,3,739.71
+S934,2025-08-04,Reebok,Sports,Red,UAE,Online,145.65,10,1456.5
+S935,2025-06-19,Adidas,Running,Blue,Saudi Arabia,Retail Store,67.77,3,203.31
+S936,2025-02-06,Reebok,Casual,White,Saudi Arabia,Retail Store,89.91,18,1618.38
+S937,2025-07-15,Nike,Boots,White,Germany,Retail Store,34.05,1,34.05
+S938,2025-05-07,Adidas,Formal,Green,Saudi Arabia,Online,231.15,2,462.3
+S939,2025-09-24,Reebok,Formal,Green,France,Retail Store,55.91,7,391.37
+S940,2025-03-23,Skechers,Sneakers,Grey,USA,Retail Store,156.83,2,313.66
+S941,2025-09-04,Adidas,Sports,Black,Saudi Arabia,Mall,90.29,10,902.9
+S942,2025-04-22,Adidas,Boots,Red,France,Online,151.92,4,607.68
+S943,2025-03-27,New Balance,Running,Red,Saudi Arabia,Online,173.31,9,1559.79
+S944,2025-01-05,New Balance,Boots,Red,UAE,Mall,212.54,2,425.08
+S945,2025-03-21,Nike,Casual,White,Germany,Online,75.41,12,904.92
+S946,2025-12-18,Puma,Boots,Black,USA,Retail Store,32.42,20,648.4
+S947,2025-11-27,Skechers,Sneakers,Black,UK,Retail Store,60.11,5,300.55
+S948,2025-04-30,New Balance,Boots,Blue,Saudi Arabia,Retail Store,228.0,11,2508.0
+S949,2025-04-09,Skechers,Formal,Blue,UAE,Online,222.26,1,222.26
+S950,2025-05-09,Reebok,Boots,Red,India,Retail Store,161.43,2,322.86
+S951,2025-10-05,Adidas,Sneakers,White,India,Retail Store,162.11,16,2593.76
+S952,2025-06-15,Puma,Sneakers,Grey,UK,Online,176.31,15,2644.65
+S953,2025-09-29,Reebok,Sports,Blue,India,Retail Store,68.58,5,342.9
+S954,2025-08-21,Skechers,Sneakers,Red,UAE,Online,231.17,1,231.17
+S955,2025-01-10,Puma,Sneakers,White,France,Mall,122.13,20,2442.6
+S956,2025-02-02,Reebok,Casual,Grey,UAE,Retail Store,114.29,18,2057.22
+S957,2025-10-10,New Balance,Sports,Blue,Germany,Mall,144.16,5,720.8
+S958,2025-06-14,Nike,Sneakers,Green,USA,Online,40.33,4,161.32
+S959,2025-03-08,Nike,Casual,Black,Germany,Online,66.58,6,399.48
+S960,2025-02-20,New Balance,Boots,Red,UAE,Retail Store,192.37,2,384.74
+S961,2025-09-27,Skechers,Sneakers,Blue,USA,Retail Store,48.22,20,964.4
+S962,2025-04-24,Skechers,Running,Black,UK,Mall,162.69,20,3253.8
+S963,2025-09-09,Reebok,Boots,Black,France,Mall,83.98,3,251.94
+S964,2025-08-01,Skechers,Running,Grey,France,Mall,115.65,12,1387.8
+S965,2025-01-21,Puma,Running,White,India,Online,93.51,3,280.53
+S966,2025-02-21,New Balance,Formal,White,UK,Mall,108.25,8,866.0
+S967,2025-12-03,New Balance,Boots,White,India,Mall,188.19,8,1505.52
+S968,2025-10-13,Skechers,Running,Green,India,Retail Store,95.37,14,1335.18
+S969,2025-12-12,Skechers,Boots,Red,USA,Online,154.61,15,2319.15
+S970,2025-04-03,Reebok,Sneakers,Blue,UAE,Online,134.73,18,2425.14
+S971,2025-10-01,Reebok,Sports,Blue,India,Retail Store,176.01,20,3520.2
+S972,2025-07-10,Skechers,Formal,Green,France,Mall,236.1,14,3305.4
+S973,2025-05-04,New Balance,Casual,Red,Saudi Arabia,Mall,191.17,19,3632.23
+S974,2025-05-11,Reebok,Formal,Red,USA,Mall,77.29,12,927.48
+S975,2025-01-18,New Balance,Running,Grey,UK,Retail Store,36.86,10,368.6
+S976,2025-01-04,Adidas,Casual,Blue,USA,Mall,87.7,10,877.0
+S977,2025-05-22,New Balance,Sneakers,Grey,India,Online,160.92,18,2896.56
+S978,2025-02-18,Reebok,Sports,White,UK,Retail Store,41.31,2,82.62
+S979,2025-07-07,Adidas,Casual,Blue,Saudi Arabia,Retail Store,139.2,19,2644.8
+S980,2025-02-17,Reebok,Sneakers,White,UAE,Online,161.31,19,3064.89
+S981,2025-06-16,Adidas,Formal,Green,UAE,Mall,103.53,16,1656.48
+S982,2025-02-18,Skechers,Sports,Black,UAE,Mall,199.6,20,3992.0
+S983,2025-07-15,Nike,Sports,Blue,Saudi Arabia,Retail Store,53.45,3,160.35
+S984,2025-08-02,Adidas,Boots,Green,Saudi Arabia,Mall,46.53,4,186.12
+S985,2025-01-06,Nike,Sports,Grey,USA,Retail Store,190.2,13,2472.6
+S986,2025-10-04,Adidas,Sports,Grey,UAE,Online,139.01,19,2641.19
+S987,2025-03-20,Skechers,Boots,Red,Germany,Mall,181.45,2,362.9
+S988,2025-10-22,Nike,Casual,Red,France,Retail Store,125.66,17,2136.22
+S989,2025-03-17,Puma,Running,Red,India,Mall,84.21,5,421.05
+S990,2025-01-26,Reebok,Sports,Black,Germany,Mall,210.2,18,3783.6
+S991,2025-08-11,Adidas,Formal,Grey,UK,Retail Store,205.87,5,1029.35
+S992,2025-07-22,Adidas,Sneakers,Grey,UAE,Mall,182.83,19,3473.77
+S993,2025-05-07,Nike,Sports,Red,France,Mall,89.87,8,718.96
+S994,2025-10-22,Nike,Boots,Red,Germany,Retail Store,159.85,3,479.55
+S995,2025-06-28,Puma,Sports,Grey,UAE,Online,109.41,7,765.87
+S996,2025-06-06,Puma,Sneakers,Red,India,Online,50.15,6,300.9
+S997,2025-08-14,Adidas,Casual,Green,France,Online,231.81,2,463.62
+S998,2025-02-13,Skechers,Running,White,India,Online,60.1,4,240.4
+S999,2025-05-28,Puma,Boots,Black,France,Retail Store,239.05,1,239.05
+S1000,2025-08-30,Puma,Casual,Green,India,Online,128.12,1,128.12
